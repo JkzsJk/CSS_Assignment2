@@ -50,4 +50,56 @@ Public Class FirstRegister
     Private Sub close_btn_Click(sender As Object, e As EventArgs) Handles close_btn.Click
         Me.Close()
     End Sub
+
+    Private StrengthWords() As String = {"Invalid", "Very Weak", "Weak", "Better", "Medium", "Strong", "Perfect"}
+
+    Private Sub password_txt_KeyUp(ByVal sender As System.Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles password_txt.KeyUp
+        CalculateMeter()
+    End Sub
+
+    Sub CalculateMeter()
+
+        Dim score As Integer
+        Dim password As String = password_txt.Text
+
+        If (password.Length > 6) Then score += 1 'Length more than 6
+        If System.Text.RegularExpressions.Regex.IsMatch(password, "[a-z]") And
+        System.Text.RegularExpressions.Regex.IsMatch(password, "[A-Z]") Then
+            score += 1 'upper and lower case
+        End If
+        If System.Text.RegularExpressions.Regex.IsMatch(password, "\d+") Then
+            score += 1 'number
+        End If
+        If System.Text.RegularExpressions.Regex.IsMatch(password, "[,!,@,#,$,%,^,&,*,?,_,~,-,/,"",]") Then
+            score += 1 'special character
+        End If
+        If (password.Length >= 10) Then score += 1 'length more than 9
+        If (password.Length > 15) Then score += 1 'length more than 15
+        pbStrength.Value = score / 6 * 100 'finding percentage to increase
+        PStrengthMaterialLbl.Width = 50 * score 'label width is not auto so seeting it to show color amount
+        PStrengthMaterialLbl.Text = StrengthWords(score) 'Getting strength word from string array declarred above
+        PStrengthMaterialLbl.TextAlign = ContentAlignment.MiddleCenter 'alignning to center can be done one time in design
+        PStrengthMaterialLbl.BackColor = GetColor(score) 'Getting color and setting
+        PStrengthMaterialLbl.ForeColor = GetColor(score) 'does not work unless you disable Visual Styles from application properties
+    End Sub
+
+    Private Function GetColor(ByVal score As Integer) As Color
+        Select Case score
+            Case 0
+                Return Color.Red
+            Case 1
+                Return Color.OrangeRed
+            Case 2
+                Return Color.Orange
+            Case 3
+                Return Color.Yellow
+            Case 4
+                Return Color.MediumSeaGreen
+            Case 5
+                Return Color.Green
+            Case 6
+                Return Color.DarkGreen
+        End Select
+    End Function
+
 End Class
