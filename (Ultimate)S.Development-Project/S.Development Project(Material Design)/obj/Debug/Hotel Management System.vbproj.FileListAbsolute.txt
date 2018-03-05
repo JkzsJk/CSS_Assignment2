@@ -1,0 +1,36 @@
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.vbproj.GenerateResource.Cache
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.vbproj.CoreCompileInputs.cache
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\bin\Debug\HotelManagementData.accdb
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.pdb
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.xml
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\bin\Debug\MaterialSkin.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPayment.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckIn.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckOut.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteRecord.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Report.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminDelete.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminEdit.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMDeleteDataEntry.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteReservation.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
