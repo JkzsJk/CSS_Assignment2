@@ -1,0 +1,296 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Hotel Management System
+</name>
+</assembly>
+<members>
+<member name="T:S.Development_Project_Material_Design_.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:S.Development_Project_Material_Design_.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:S.Development_Project_Material_Design_.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:S.Development_Project_Material_Design_.My.Resources.Resources.Back_Button_White_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.CheckInDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.CheckInRoomDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.CheckOutDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.CheckOutRoomDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.CredentialsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.FacilitiesAndServicesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.FnSPaymentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.FnSReservationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.PaymentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.RoomDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.RoomReservationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.CheckInRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.CheckInRoomRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.CheckOutRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.CheckOutRoomRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.CredentialsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.FacilitiesAndServicesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.FnSPaymentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.FnSReservationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.PaymentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.RoomRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.RoomReservationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.CheckInRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.CheckInRoomRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.CheckOutRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.CheckOutRoomRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.CredentialsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.FacilitiesAndServicesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.FnSPaymentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.FnSReservationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.PaymentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.RoomRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSet.RoomReservationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.CheckInTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.CheckInRoomTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.CheckOutTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.CheckOutRoomTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.CredentialsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.FacilitiesAndServicesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.FnSPaymentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.FnSReservationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.PaymentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.RoomTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.RoomReservationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(S.Development_Project_Material_Design_.HotelManagementDataDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(S.Development_Project_Material_Design_.HotelManagementDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(S.Development_Project_Material_Design_.HotelManagementDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.TableAdapterManager.UpdateAll(S.Development_Project_Material_Design_.HotelManagementDataDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:S.Development_Project_Material_Design_.HotelManagementDataDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

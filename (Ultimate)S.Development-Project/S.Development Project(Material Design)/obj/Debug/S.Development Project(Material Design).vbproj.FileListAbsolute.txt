@@ -1,0 +1,575 @@
+c:\users\jason khor\documents\visual studio 2013\Projects\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\S.Development Project(Material Design).exe.config
+c:\users\jason khor\documents\visual studio 2013\Projects\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\S.Development Project(Material Design).exe
+c:\users\jason khor\documents\visual studio 2013\Projects\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\S.Development Project(Material Design).pdb
+c:\users\jason khor\documents\visual studio 2013\Projects\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\S.Development Project(Material Design).xml
+c:\users\jason khor\documents\visual studio 2013\Projects\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+c:\users\jason khor\documents\visual studio 2013\Projects\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+c:\users\jason khor\documents\visual studio 2013\Projects\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).exe
+c:\users\jason khor\documents\visual studio 2013\Projects\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).xml
+c:\users\jason khor\documents\visual studio 2013\Projects\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).pdb
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\MaterialSkin.dll
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbprojResolveAssemblyReference.cache
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FDReport.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.InvoiceFDM.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FDMCheck_in.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMAddFSDataEntry.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMAddRoomDataEntry.resources
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\MaterialSkin.dll
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbprojResolveAssemblyReference.cache
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FDMCheck_in.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FDReport.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.InvoiceFDM.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMAddFSDataEntry.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMAddRoomDataEntry.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\Hotel Management System.xml
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\Hotel Management System.pdb
+C:\Users\Jason Khor\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\Hotel Management System.xml
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\Hotel Management System.pdb
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\Hotel Management System.xml
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\bin\Debug\MaterialSkin.dll
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FDMCheck_in.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FDReport.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.InvoiceFDM.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMAddFSDataEntry.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMAddRoomDataEntry.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
+C:\Users\USER\Desktop\S.Development Project(Material Design)\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.pdb
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.xml
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\bin\Debug\MaterialSkin.dll
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbprojResolveAssemblyReference.cache
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FDMCheckinWalkIn.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FDReport.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.InvoiceFDM.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMAddFSDataEntry.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMAddRoomDataEntry.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckInRoom.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckInFacilityService.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.WalkInGroupOrIndi.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.WalkInGroup.resources
+C:\Users\Jason Khor\Desktop\(30.3.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.WalkInIndividual.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.pdb
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.xml
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\bin\Debug\MaterialSkin.dll
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbprojResolveAssemblyReference.cache
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckInFacilityService.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckInRoom.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FDReport.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.InvoiceFDM.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.WalkInGroup.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.WalkInGroupOrIndi.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.WalkInIndividual.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.ReservationGroupOrIndi.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMAddFSDataEntryGroup.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMAddFSDataEntryIndi.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMAddRoomDataEntryGroup.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMAddRoomDataEntryIndi.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu1.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu2.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
+C:\Users\Jason Khor\Desktop\(3.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+C:\Users\Jason Khor\Desktop\(7.4.2016)S.Development Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\Jason Khor\Desktop\(7.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+C:\Users\Jason Khor\Desktop\(7.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\Jason Khor\Desktop\(7.4.2016)S.Development Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.xml
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\bin\Debug\MaterialSkin.dll
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbprojResolveAssemblyReference.cache
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FDReport.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckIn.resources
+C:\Users\ChoongFoo\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckOut.resources
+C:\Users\USER\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\USER\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+C:\Users\USER\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\USER\Desktop\13.4.2016S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.xml
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\MaterialSkin.dll
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbprojResolveAssemblyReference.cache
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckIn.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckOut.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FDReport.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteReservation.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMDeleteDataEntry.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminDelete.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminEdit.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPayment.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteRecord.resources
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\RdlCompile.cache
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\RdlCompile.compiled
+C:\Users\ChoongFoo\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\HotelManagementData.accdb
+E:\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbprojResolveAssemblyReference.cache
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPayment.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckIn.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckOut.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteRecord.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FDReport.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminDelete.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminEdit.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMDeleteDataEntry.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteReservation.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
+E:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\HotelManagementData.accdb
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.xml
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\MaterialSkin.dll
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbprojResolveAssemblyReference.cache
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPayment.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckIn.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckOut.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteRecord.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FDReport.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminDelete.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminEdit.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMDeleteDataEntry.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteReservation.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\RdlCompile.cache
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\RdlCompile.compiled
+C:\Users\ChoongFoo\Desktop\New\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+F:\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+F:\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\HotelManagementData.accdb
+F:\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe
+F:\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.pdb
+F:\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.xml
+F:\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\MaterialSkin.dll
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbprojResolveAssemblyReference.cache
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPayment.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckIn.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckOut.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteRecord.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FDReport.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminDelete.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminEdit.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMDeleteDataEntry.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteReservation.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\RdlCompile.cache
+F:\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\RdlCompile.compiled
+C:\Users\USER\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\USER\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+C:\Users\USER\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\USER\Desktop\(new)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+F:\Final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbprojResolveAssemblyReference.cache
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPayment.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckIn.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckOut.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteRecord.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FDReport.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminDelete.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminEdit.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMDeleteDataEntry.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteReservation.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\RdlCompile.cache
+F:\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\RdlCompile.compiled
+F:\Final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\HotelManagementData.accdb
+F:\Final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe
+F:\Final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.pdb
+F:\Final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.xml
+F:\Final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\MaterialSkin.dll
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\HotelManagementData.accdb
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.xml
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\MaterialSkin.dll
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbprojResolveAssemblyReference.cache
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPayment.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckIn.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckOut.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteRecord.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminDelete.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminEdit.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMDeleteDataEntry.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteReservation.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\RdlCompile.cache
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\RdlCompile.compiled
+C:\Users\ChoongFoo\Documents\APU\Semester 5\SDP\Final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Report.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\bin\Debug\HotelManagementData.accdb
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.xml
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\bin\Debug\MaterialSkin.dll
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbprojResolveAssemblyReference.cache
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPayment.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckIn.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckOut.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteRecord.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Report.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminDelete.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminEdit.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMDeleteDataEntry.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteReservation.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\RdlCompile.cache
+C:\Users\ChoongFoo\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\RdlCompile.compiled
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\HotelManagementData.accdb
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.xml
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\bin\Debug\MaterialSkin.dll
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbprojResolveAssemblyReference.cache
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPayment.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckIn.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckOut.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteRecord.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Report.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminDelete.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminEdit.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMDeleteDataEntry.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteReservation.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\RdlCompile.cache
+C:\Users\ChoongFoo\Documents\APU\Diploma\Semester 5\SDP\Ultimate final\S.Development-Project\S.Development Project(Material Design)\obj\Debug\RdlCompile.compiled
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbprojResolveAssemblyReference.cache
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPayment.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckIn.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckOut.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteRecord.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Report.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminDelete.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminEdit.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMDeleteDataEntry.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteReservation.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.CoreCompileInputs.cache
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\bin\Debug\HotelManagementData.accdb
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.pdb
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.xml
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\bin\Debug\MaterialSkin.dll
+C:\Users\ChoongFoOKoa\Desktop\S.Development-Project\S.Development Project(Material Design)\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\bin\Debug\HotelManagementData.accdb
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.config
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.pdb
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.xml
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\bin\Debug\MaterialSkin.dll
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbprojResolveAssemblyReference.cache
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPayment.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckIn.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.CheckOut.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteRecord.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Report.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminDelete.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminEdit.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMDeleteDataEntry.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AddPaymentRM.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.DeleteReservation.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Reservations_Management.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFManagement.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMAddDataEntry.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RFMUpdateDataEntry.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Welcome.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMMenu.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.GenerateResource.Cache
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development Project(Material Design).vbproj.CoreCompileInputs.cache
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.xml
+C:\Users\Jason Khor\Documents\Visual Studio 2017\Projects\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.pdb

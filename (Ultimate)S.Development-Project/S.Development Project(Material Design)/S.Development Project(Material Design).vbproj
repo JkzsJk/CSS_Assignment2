@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{77762A79-9C2E-474B-AF36-8CB55B270A55}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>S.Development_Project_Material_Design_.My.MyApplication</StartupObject>
+    <RootNamespace>S.Development_Project_Material_Design_</RootNamespace>
+    <AssemblyName>Hotel Management System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Hotel Management System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Hotel Management System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common">
+      <HintPath>..\packages\Microsoft.ReportViewer.Common.10.0.40219.1\lib\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.WinForms.10.0.40219.1\lib\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FDManagement\AddPayment.Designer.vb">
+      <DependentUpon>AddPayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FDManagement\AddPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDManagement\CheckIn.Designer.vb">
+      <DependentUpon>CheckIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FDManagement\CheckIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDManagement\CheckOut.Designer.vb">
+      <DependentUpon>CheckOut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FDManagement\CheckOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDManagement\DeleteRecord.Designer.vb">
+      <DependentUpon>DeleteRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FDManagement\DeleteRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDManagement\FDReport.designer.vb">
+      <DependentUpon>FDReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FDManagement\FDReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HotelManagementDataDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HotelManagementDataDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Main Menu%28Admin%29\AdminDelete.Designer.vb">
+      <DependentUpon>AdminDelete.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main Menu%28Admin%29\AdminDelete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main Menu%28Admin%29\AdminEdit.Designer.vb">
+      <DependentUpon>AdminEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main Menu%28Admin%29\AdminEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main Menu%28Admin%29\AdminRegister.Designer.vb">
+      <DependentUpon>AdminRegister.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main Menu%28Admin%29\AdminRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstScreens\FirstRegister.Designer.vb">
+      <DependentUpon>FirstRegister.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FirstScreens\FirstRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDManagement\FrontDeskManagement.Designer.vb">
+      <DependentUpon>FrontDeskManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FDManagement\FrontDeskManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main Menu%28Admin%29\MenuForAdmin.Designer.vb">
+      <DependentUpon>MenuForAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main Menu%28Admin%29\MenuForAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RFManagement\RFMDeleteDataEntry.Designer.vb">
+      <DependentUpon>RFMDeleteDataEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RFManagement\RFMDeleteDataEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RManagement\AddPaymentRM.Designer.vb">
+      <DependentUpon>AddPaymentRM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RManagement\AddPaymentRM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RManagement\DeleteReservation.Designer.vb">
+      <DependentUpon>DeleteReservation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RManagement\DeleteReservation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RManagement\Reservations Management.Designer.vb">
+      <DependentUpon>Reservations Management.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RManagement\Reservations Management.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RFManagement\RFManagement.Designer.vb">
+      <DependentUpon>RFManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RFManagement\RFManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RFManagement\RFMAddDataEntry.Designer.vb">
+      <DependentUpon>RFMAddDataEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RFManagement\RFMAddDataEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RFManagement\RFMUpdateDataEntry.Designer.vb">
+      <DependentUpon>RFMUpdateDataEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RFManagement\RFMUpdateDataEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstScreens\Welcome.Designer.vb">
+      <DependentUpon>Welcome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FirstScreens\Welcome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstScreens\Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FirstScreens\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RManagement\RMMenu.Designer.vb">
+      <DependentUpon>RMMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RManagement\RMMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RManagement\RMReport.Designer.vb">
+      <DependentUpon>RMReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RManagement\RMReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RManagement\RMUpdateDataEntry.Designer.vb">
+      <DependentUpon>RMUpdateDataEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RManagement\RMUpdateDataEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FDManagement\AddPayment.resx">
+      <DependentUpon>AddPayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FDManagement\CheckIn.resx">
+      <DependentUpon>CheckIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FDManagement\CheckInReport.rdlc" />
+    <EmbeddedResource Include="FDManagement\CheckOut.resx">
+      <DependentUpon>CheckOut.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FDManagement\CheckOutReport.rdlc" />
+    <EmbeddedResource Include="FDManagement\DeleteRecord.resx">
+      <DependentUpon>DeleteRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FDManagement\FDReport.resx">
+      <DependentUpon>FDReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FDManagement\PaymentReport.rdlc" />
+    <EmbeddedResource Include="Main Menu%28Admin%29\AdminDelete.resx">
+      <DependentUpon>AdminDelete.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Menu%28Admin%29\AdminEdit.resx">
+      <DependentUpon>AdminEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Menu%28Admin%29\AdminRegister.resx">
+      <DependentUpon>AdminRegister.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FDManagement\FrontDeskManagement.resx">
+      <DependentUpon>FrontDeskManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstScreens\Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Menu%28Admin%29\MenuForAdmin.resx">
+      <DependentUpon>MenuForAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstScreens\FirstRegister.resx">
+      <DependentUpon>FirstRegister.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RFManagement\RFMDeleteDataEntry.resx">
+      <DependentUpon>RFMDeleteDataEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RManagement\AddPaymentRM.resx">
+      <DependentUpon>AddPaymentRM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RManagement\DeleteReservation.resx">
+      <DependentUpon>DeleteReservation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RManagement\FnSReservationReport.rdlc" />
+    <EmbeddedResource Include="RManagement\Reservations Management.resx">
+      <DependentUpon>Reservations Management.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RFManagement\RFManagement.resx">
+      <DependentUpon>RFManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RFManagement\RFMAddDataEntry.resx">
+      <DependentUpon>RFMAddDataEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RFManagement\RFMUpdateDataEntry.resx">
+      <DependentUpon>RFMUpdateDataEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstScreens\Welcome.resx">
+      <DependentUpon>Welcome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RManagement\RMMenu.resx">
+      <DependentUpon>RMMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RManagement\RMReport.resx">
+      <DependentUpon>RMReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RManagement\RMUpdateDataEntry.resx">
+      <DependentUpon>RMUpdateDataEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RManagement\RoomReservationReport.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="HotelManagementDataDataSet.xsc">
+      <DependentUpon>HotelManagementDataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HotelManagementDataDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HotelManagementDataDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HotelManagementDataDataSet.xss">
+      <DependentUpon>HotelManagementDataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Back Button%28White%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HotelManagementData.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
