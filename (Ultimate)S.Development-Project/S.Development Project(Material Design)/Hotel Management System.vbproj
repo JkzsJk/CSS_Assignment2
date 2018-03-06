@@ -260,6 +260,12 @@
     <Compile Include="RManagement\RMUpdateDataEntry.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Website Blocker\WebsiteBlocker.Designer.vb">
+      <DependentUpon>WebsiteBlocker.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Website Blocker\WebsiteBlocker.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="FDManagement\AddPayment.resx">
@@ -348,6 +354,9 @@
       <DependentUpon>RMUpdateDataEntry.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="RManagement\RoomReservationReport.rdlc" />
+    <EmbeddedResource Include="Website Blocker\WebsiteBlocker.resx">
+      <DependentUpon>WebsiteBlocker.vb</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="HotelManagementDataDataSet.xsc">

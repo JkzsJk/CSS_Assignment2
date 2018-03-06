@@ -245,7 +245,7 @@ Partial Class AdminRegister
         Me.CaptchaBox1.Name = "CaptchaBox1"
         Me.CaptchaBox1.NumberOfLines = 50
         Me.CaptchaBox1.RandomCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmopqrstuvwxyz!#$%^&*()1234567890"
-        Me.CaptchaBox1.Size = New System.Drawing.Size(436, 120)
+        Me.CaptchaBox1.Size = New System.Drawing.Size(241, 69)
         Me.CaptchaBox1.TabIndex = 37
         Me.CaptchaBox1.TabStop = False
         Me.CaptchaBox1.TextColor = System.Drawing.Color.Black

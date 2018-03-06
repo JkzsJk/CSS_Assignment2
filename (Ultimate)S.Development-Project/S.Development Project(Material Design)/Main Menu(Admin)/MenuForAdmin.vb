@@ -64,4 +64,9 @@ Public Class MenuForAdmin
         FolderLock.Show()
         Me.Hide()
     End Sub
+
+    Private Sub WebsiteBlocker_btn_Click(sender As Object, e As EventArgs) Handles WebsiteBlocker_btn.Click
+        WebsiteBlocker.Show()
+        Me.Hide()
+    End Sub
 End Class

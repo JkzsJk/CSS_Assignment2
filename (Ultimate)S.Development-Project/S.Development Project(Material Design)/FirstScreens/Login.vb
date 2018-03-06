@@ -12,6 +12,7 @@ Public Class Login
     Dim loginstaff As String
     Dim Sql1 As String
 
+
     Private Sub Login_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Dim SkinManager As MaterialSkinManager = MaterialSkinManager.Instance
         SkinManager.AddFormToManage(Me)

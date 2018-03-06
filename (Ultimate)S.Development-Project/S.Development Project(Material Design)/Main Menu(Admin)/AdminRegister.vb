@@ -83,7 +83,7 @@ Imports MaterialSkin
         totalRec = ds1.Tables("username").Rows.Count
 
         If CaptchaTxt.Text.ToUpper.Equals(CaptchaBox1.CaptchaText.ToUpper) Then
-            MessageBox.Show("Correct!")
+            MessageBox.Show("Captcha is Correct!")
 
             For i = 0 To totalRec - 1
                 If username_txt.Text = ds1.Tables("username").Rows(i).Item(0) Then
@@ -114,7 +114,7 @@ Imports MaterialSkin
             End If
 
         Else
-            MessageBox.Show("Incorrect!")
+            MessageBox.Show("Captcha is Incorrect!")
         End If
 
         position_CB.Text = ""
@@ -123,6 +123,7 @@ Imports MaterialSkin
         con.Close()
 
     End Sub
+
 
     Private Sub RefreshCBtn_Click(sender As Object, e As EventArgs) Handles RefreshCBtn.Click
         CaptchaBox1.Refresh()

@@ -10,35 +10,44 @@ Public Class FirstRegister
     Dim cmd As New OleDb.OleDbCommand
     Dim Sql, Sql1 As String
 
+    Private StrengthWords() As String = {"Invalid", "Very Weak", "Weak", "Better", "Medium", "Strong", "Perfect"}
+
     Private Sub FirstRegister_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Dim SkinManager As MaterialSkinManager = MaterialSkinManager.Instance
         SkinManager.AddFormToManage(Me)
         SkinManager.Theme = MaterialSkinManager.Themes.LIGHT
         SkinManager.ColorScheme = New ColorScheme(Primary.Blue700, Primary.Blue900, Primary.BlueGrey500, Accent.Amber700, TextShade.WHITE)
-
+        CaptchaBox1.RandomCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmopqrstuvwxyz1234567890"
+        CaptchaBox1.CaptchaTextLength = 5
     End Sub
 
     Private Sub accept_btn_Click(sender As Object, e As EventArgs) Handles accept_btn.Click
 
-        If Username_txt.Text = "" Or password_txt.Text = "" Then
-            MsgBox("You must fill in all the column.", MsgBoxStyle.Critical)
-            Exit Sub
-        End If
+        If CaptchaTxt.Text.ToUpper.Equals(CaptchaBox1.CaptchaText.ToUpper) Then
+            MessageBox.Show("Captcha is Correct!")
+            If Username_txt.Text = "" Or password_txt.Text = "" Then
+                MsgBox("You must fill in all the column.", MsgBoxStyle.Critical)
+                Exit Sub
+            End If
 
-        con.Open()
-        Sql = "insert into Credentials values ('"
-        Sql = Sql & Username_txt.Text & "','"
-        Sql = Sql & password_txt.Text & "','"
-        Sql = Sql & "Admin')"
+            con.Open()
+            Sql = "insert into Credentials values ('"
+            Sql = Sql & Username_txt.Text & "','"
+            Sql = Sql & password_txt.Text & "','"
+            Sql = Sql & "Admin')"
 
-        Dim y As String
-        y = MsgBox("Update Confirmation", MsgBoxStyle.YesNo)
-        If y = vbYes Then
-            cmd = New OleDbCommand(Sql, con)
-            cmd.ExecuteNonQuery()
-            MsgBox("New account is registered!")
-            Me.Hide()
-            Login.Show()
+            Dim y As String
+            y = MsgBox("Update Confirmation", MsgBoxStyle.YesNo)
+            If y = vbYes Then
+                cmd = New OleDbCommand(Sql, con)
+                cmd.ExecuteNonQuery()
+                MsgBox("New account is registered!")
+                Me.Hide()
+                Login.Show()
+            End If
+
+        Else
+            MessageBox.Show("Captcha is Incorrect!")
         End If
 
         Username_txt.Clear()
@@ -51,10 +60,12 @@ Public Class FirstRegister
         Me.Close()
     End Sub
 
-    Private StrengthWords() As String = {"Invalid", "Very Weak", "Weak", "Better", "Medium", "Strong", "Perfect"}
-
     Private Sub password_txt_KeyUp(ByVal sender As System.Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles password_txt.KeyUp
         CalculateMeter()
+    End Sub
+
+    Private Sub RefreshCBtn_Click(sender As Object, e As EventArgs) Handles RefreshCBtn.Click
+        CaptchaBox1.Refresh()
     End Sub
 
     Sub CalculateMeter()

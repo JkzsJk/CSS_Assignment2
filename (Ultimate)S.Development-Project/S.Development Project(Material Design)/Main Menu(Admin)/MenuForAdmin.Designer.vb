@@ -35,6 +35,7 @@ Partial Class MenuForAdmin
         Me.editAcc_btn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.FileHashingBtn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.FolderLockBtn = New MaterialSkin.Controls.MaterialRaisedButton()
+        Me.WebsiteBlocker_btn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.SuspendLayout()
         '
         'RegisterAccMMButton
@@ -193,11 +194,26 @@ Partial Class MenuForAdmin
         Me.FolderLockBtn.Text = "Folder Lock"
         Me.FolderLockBtn.UseVisualStyleBackColor = True
         '
+        'WebsiteBlocker_btn
+        '
+        Me.WebsiteBlocker_btn.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.WebsiteBlocker_btn.Depth = 0
+        Me.WebsiteBlocker_btn.Location = New System.Drawing.Point(715, 317)
+        Me.WebsiteBlocker_btn.Margin = New System.Windows.Forms.Padding(4)
+        Me.WebsiteBlocker_btn.MouseState = MaterialSkin.MouseState.HOVER
+        Me.WebsiteBlocker_btn.Name = "WebsiteBlocker_btn"
+        Me.WebsiteBlocker_btn.Primary = True
+        Me.WebsiteBlocker_btn.Size = New System.Drawing.Size(544, 56)
+        Me.WebsiteBlocker_btn.TabIndex = 35
+        Me.WebsiteBlocker_btn.Text = "Website Blocker"
+        Me.WebsiteBlocker_btn.UseVisualStyleBackColor = True
+        '
         'MenuForAdmin
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(12.0!, 25.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1366, 767)
+        Me.Controls.Add(Me.WebsiteBlocker_btn)
         Me.Controls.Add(Me.FolderLockBtn)
         Me.Controls.Add(Me.editAcc_btn)
         Me.Controls.Add(Me.DeleteAcc_btn)
@@ -230,4 +246,5 @@ Partial Class MenuForAdmin
     Friend WithEvents editAcc_btn As MaterialSkin.Controls.MaterialRaisedButton
     Friend WithEvents FileHashingBtn As MaterialSkin.Controls.MaterialRaisedButton
     Friend WithEvents FolderLockBtn As MaterialSkin.Controls.MaterialRaisedButton
+    Friend WithEvents WebsiteBlocker_btn As MaterialSkin.Controls.MaterialRaisedButton
 End Class
