@@ -15,7 +15,7 @@ Public Class MenuForAdmin
         Dim y As String
         y = MsgBox("Logout confirmation.", MsgBoxStyle.YesNo)
         If y = vbYes Then
-            Login.Show()
+            FileHashing.Show()
             Me.Close()
         End If
     End Sub
@@ -54,4 +54,10 @@ Public Class MenuForAdmin
         Me.Enabled = False
         AdminEdit.Show()
     End Sub
+
+    Private Sub FileHashingBtn_Click(sender As Object, e As EventArgs) Handles FileHashingBtn.Click
+        FileHashing.Show()
+        Me.Hide()
+    End Sub
+
 End Class

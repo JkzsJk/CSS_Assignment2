@@ -28,13 +28,11 @@ Public Class Login
         For i = 0 To totalRec
             username_CB.Items.Add(ds1.Tables("stafflogin").Rows(i).Item(0))
         Next
-        con.Close()
+
 
     End Sub
 
     Private Sub login_btn_Click(sender As Object, e As EventArgs) Handles login_btn.Click
-
-        con.Open()
         Dim Sql As String = "select * from Credentials where Username='" & username_CB.Text & "'"
         Dim da As New OleDbDataAdapter(Sql, con)
 
@@ -49,7 +47,6 @@ Public Class Login
 
             username_CB.Text = ""
             password_txt.Text = ""
-            con.Close()
 
         Else
             MsgBox("Password incorrect.", MsgBoxStyle.Critical)
@@ -95,6 +92,7 @@ Public Class Login
             Me.Close()
 
         End If
+
     End Sub
 
     Private Sub exit_btn_Click(sender As Object, e As EventArgs) Handles exit_btn.Click

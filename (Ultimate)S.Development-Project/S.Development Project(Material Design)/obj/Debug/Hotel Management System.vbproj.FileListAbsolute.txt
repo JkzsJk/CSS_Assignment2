@@ -19,7 +19,6 @@ C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Pro
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminEdit.resources
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.AdminRegister.resources
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FrontDeskManagement.resources
-C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.MenuForAdmin.resources
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Resources.resources
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FirstRegister.resources
@@ -35,3 +34,5 @@ C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Pro
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMReport.resources
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RMUpdateDataEntry.resources
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.vbprojResolveAssemblyReference.cache
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Login.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FileHashing.resources

@@ -42,7 +42,7 @@ Public Class FrontDeskManagement
     Private Sub FrontDeskManagement_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing
         If Role.Text <> "Admin" Then
             If ButtonCheck = False Then
-                Login.Close()
+                FileHashing.Close()
             End If
         End If
 
