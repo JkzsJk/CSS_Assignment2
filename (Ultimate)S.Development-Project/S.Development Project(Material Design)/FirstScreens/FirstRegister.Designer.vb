@@ -30,8 +30,9 @@ Partial Class FirstRegister
         Me.username_lbl = New MaterialSkin.Controls.MaterialLabel()
         Me.SelectLabel = New MaterialSkin.Controls.MaterialLabel()
         Me.MaterialLabel4 = New MaterialSkin.Controls.MaterialLabel()
-        Me.pbStrength = New System.Windows.Forms.ProgressBar()
         Me.PStrengthMaterialLbl = New MaterialSkin.Controls.MaterialLabel()
+        Me.pbStrength = New System.Windows.Forms.ProgressBar()
+        Me.pwStrengthlbl = New MaterialSkin.Controls.MaterialLabel()
         Me.SuspendLayout()
         '
         'close_btn
@@ -148,14 +149,6 @@ Partial Class FirstRegister
         Me.MaterialLabel4.TabIndex = 18
         Me.MaterialLabel4.Text = "as it is the first account to be registered in this system."
         '
-        'pbStrength
-        '
-        Me.pbStrength.Location = New System.Drawing.Point(349, 406)
-        Me.pbStrength.Margin = New System.Windows.Forms.Padding(6)
-        Me.pbStrength.Name = "pbStrength"
-        Me.pbStrength.Size = New System.Drawing.Size(520, 44)
-        Me.pbStrength.TabIndex = 19
-        '
         'PStrengthMaterialLbl
         '
         Me.PStrengthMaterialLbl.AutoSize = True
@@ -171,13 +164,37 @@ Partial Class FirstRegister
         Me.PStrengthMaterialLbl.TabIndex = 20
         Me.PStrengthMaterialLbl.Text = "Password Strength:"
         '
+        'pbStrength
+        '
+        Me.pbStrength.Location = New System.Drawing.Point(895, 500)
+        Me.pbStrength.Margin = New System.Windows.Forms.Padding(6)
+        Me.pbStrength.Name = "pbStrength"
+        Me.pbStrength.Size = New System.Drawing.Size(268, 44)
+        Me.pbStrength.TabIndex = 38
+        Me.pbStrength.Visible = False
+        '
+        'pwStrengthlbl
+        '
+        Me.pwStrengthlbl.AutoSize = True
+        Me.pwStrengthlbl.Depth = 0
+        Me.pwStrengthlbl.Font = New System.Drawing.Font("Roboto", 11.0!)
+        Me.pwStrengthlbl.ForeColor = System.Drawing.Color.FromArgb(CType(CType(222, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.pwStrengthlbl.Location = New System.Drawing.Point(348, 417)
+        Me.pwStrengthlbl.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.pwStrengthlbl.MouseState = MaterialSkin.MouseState.HOVER
+        Me.pwStrengthlbl.Name = "pwStrengthlbl"
+        Me.pwStrengthlbl.Size = New System.Drawing.Size(243, 34)
+        Me.pwStrengthlbl.TabIndex = 37
+        Me.pwStrengthlbl.Text = "PasswordStrength"
+        '
         'FirstRegister
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(12.0!, 25.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1516, 642)
-        Me.Controls.Add(Me.PStrengthMaterialLbl)
         Me.Controls.Add(Me.pbStrength)
+        Me.Controls.Add(Me.pwStrengthlbl)
+        Me.Controls.Add(Me.PStrengthMaterialLbl)
         Me.Controls.Add(Me.MaterialLabel4)
         Me.Controls.Add(Me.SelectLabel)
         Me.Controls.Add(Me.close_btn)
@@ -203,6 +220,7 @@ Partial Class FirstRegister
     Friend WithEvents username_lbl As MaterialSkin.Controls.MaterialLabel
     Friend WithEvents SelectLabel As MaterialSkin.Controls.MaterialLabel
     Friend WithEvents MaterialLabel4 As MaterialSkin.Controls.MaterialLabel
-    Friend WithEvents pbStrength As ProgressBar
     Friend WithEvents PStrengthMaterialLbl As MaterialSkin.Controls.MaterialLabel
+    Friend WithEvents pbStrength As ProgressBar
+    Friend WithEvents pwStrengthlbl As MaterialSkin.Controls.MaterialLabel
 End Class

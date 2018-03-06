@@ -87,6 +87,9 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CaptchaBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="FDManagement\AddPayment.Designer.vb">
       <DependentUpon>AddPayment.vb</DependentUpon>
     </Compile>

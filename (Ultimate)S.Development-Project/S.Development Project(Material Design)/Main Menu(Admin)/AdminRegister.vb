@@ -13,7 +13,7 @@ Imports MaterialSkin
 
     Private StrengthWords() As String = {"Invalid", "Very Weak", "Weak", "Better", "Medium", "Strong", "Perfect"}
 
-    Private Sub password_txt_KeyUp(ByVal sender As System.Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles password_txt.KeyUp
+    Private Sub password_txt_KeyUp(ByVal sender As System.Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles password_txt.KeyUp, CaptchaTxt.KeyUp
         CalculateMeter()
     End Sub
 
@@ -36,11 +36,11 @@ Imports MaterialSkin
         If (password.Length >= 10) Then score += 1 'length more than 9
         If (password.Length > 15) Then score += 1 'length more than 15
         pbStrength.Value = score / 6 * 100 'finding percentage to increase
-        lblProgressBar.Width = 50 * score 'label width is not auto so seeting it to show color amount
-        lblProgressBar.Text = StrengthWords(score) 'Getting strength word from string array declarred above
-        lblProgressBar.TextAlign = ContentAlignment.MiddleCenter 'alignning to center can be done one time in design
-        lblProgressBar.BackColor = GetColor(score) 'Getting color and setting
-        lblProgressBar.ForeColor = GetColor(score) 'does not work unless you disable Visual Styles from application properties
+        pwStrengthlbl.Width = 50 * score 'label width is not auto so seeting it to show color amount
+        pwStrengthlbl.Text = StrengthWords(score) 'Getting strength word from string array declarred above
+        pwStrengthlbl.TextAlign = ContentAlignment.MiddleCenter 'alignning to center can be done one time in design
+        pwStrengthlbl.BackColor = GetColor(score) 'Getting color and setting
+        pbStrength.ForeColor = GetColor(score) 'does not work unless you disable Visual Styles from application properties
     End Sub
 
     Private Function GetColor(ByVal score As Integer) As Color
@@ -67,6 +67,8 @@ Imports MaterialSkin
         SkinManager.AddFormToManage(Me)
         SkinManager.Theme = MaterialSkinManager.Themes.LIGHT
         SkinManager.ColorScheme = New ColorScheme(Primary.Blue700, Primary.Blue900, Primary.BlueGrey500, Accent.Amber700, TextShade.WHITE)
+        CaptchaBox1.RandomCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmopqrstuvwxyz1234567890"
+        CaptchaBox1.CaptchaTextLength = 5
     End Sub
 
     Private Sub AdminRegister_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing
@@ -80,38 +82,50 @@ Imports MaterialSkin
         da1.Fill(ds1, "username")
         totalRec = ds1.Tables("username").Rows.Count
 
-        For i = 0 To totalRec - 1
-            If username_txt.Text = ds1.Tables("username").Rows(i).Item(0) Then
-                MsgBox("The username is exsiting, try another one.", MsgBoxStyle.Critical)
-                username_txt.Clear()
-                username_txt.Focus()
-                password_txt.Clear()
+        If CaptchaTxt.Text.ToUpper.Equals(CaptchaBox1.CaptchaText.ToUpper) Then
+            MessageBox.Show("Correct!")
+
+            For i = 0 To totalRec - 1
+                If username_txt.Text = ds1.Tables("username").Rows(i).Item(0) Then
+                    MsgBox("The username is exsiting, try another one.", MsgBoxStyle.Critical)
+                    username_txt.Clear()
+                    username_txt.Focus()
+                    password_txt.Clear()
+                    Exit Sub
+                End If
+            Next
+
+            If username_txt.Text = "" Or password_txt.Text = "" Or position_CB.Text = "" Then
+                MsgBox("You must fill in all the column.", MsgBoxStyle.Critical)
                 Exit Sub
             End If
-        Next
 
-        If username_txt.Text = "" Or password_txt.Text = "" Or position_CB.Text = "" Then
-            MsgBox("You must fill in all the column.", MsgBoxStyle.Critical)
-            Exit Sub
+            Sql = "insert into Credentials values ('"
+            Sql = Sql & username_txt.Text & "','"
+            Sql = Sql & password_txt.Text & "','"
+            Sql = Sql & position_CB.Text & "')"
+
+            Dim y As String
+            y = MsgBox("Update Confirmation", MsgBoxStyle.YesNo)
+            If y = vbYes Then
+                cmd = New OleDbCommand(Sql, con)
+                cmd.ExecuteNonQuery()
+                MsgBox("New account is registered!")
+            End If
+
+        Else
+            MessageBox.Show("Incorrect!")
         End If
 
-        Sql = "insert into Credentials values ('"
-        Sql = Sql & username_txt.Text & "','"
-        Sql = Sql & password_txt.Text & "','"
-        Sql = Sql & position_CB.Text & "')"
-
-        Dim y As String
-        y = MsgBox("Update Confirmation", MsgBoxStyle.YesNo)
-        If y = vbYes Then
-            cmd = New OleDbCommand(Sql, con)
-            cmd.ExecuteNonQuery()
-            MsgBox("New account is registered!")
-        End If
         position_CB.Text = ""
         username_txt.Clear()
         password_txt.Clear()
         con.Close()
 
+    End Sub
+
+    Private Sub RefreshCBtn_Click(sender As Object, e As EventArgs) Handles RefreshCBtn.Click
+        CaptchaBox1.Refresh()
     End Sub
 
     Private Sub CloseRegisterARButton_Click(sender As Object, e As EventArgs) Handles CloseRegisterARButton.Click

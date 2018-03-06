@@ -76,11 +76,11 @@ Public Class FirstRegister
         If (password.Length >= 10) Then score += 1 'length more than 9
         If (password.Length > 15) Then score += 1 'length more than 15
         pbStrength.Value = score / 6 * 100 'finding percentage to increase
-        PStrengthMaterialLbl.Width = 50 * score 'label width is not auto so seeting it to show color amount
-        PStrengthMaterialLbl.Text = StrengthWords(score) 'Getting strength word from string array declarred above
-        PStrengthMaterialLbl.TextAlign = ContentAlignment.MiddleCenter 'alignning to center can be done one time in design
-        PStrengthMaterialLbl.BackColor = GetColor(score) 'Getting color and setting
-        PStrengthMaterialLbl.ForeColor = GetColor(score) 'does not work unless you disable Visual Styles from application properties
+        pwStrengthlbl.Width = 50 * score 'label width is not auto so seeting it to show color amount
+        pwStrengthlbl.Text = StrengthWords(score) 'Getting strength word from string array declarred above
+        pwStrengthlbl.TextAlign = ContentAlignment.MiddleCenter 'alignning to center can be done one time in design
+        pwStrengthlbl.BackColor = GetColor(score) 'Getting color and setting
+        pbStrength.ForeColor = GetColor(score) 'does not work unless you disable Visual Styles from application properties
     End Sub
 
     Private Function GetColor(ByVal score As Integer) As Color

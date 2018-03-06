@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class AdminRegister
     Inherits MaterialSkin.Controls.MaterialForm
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class AdminRegister
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Me.SelectLabel = New MaterialSkin.Controls.MaterialLabel()
@@ -35,9 +35,14 @@ Partial Class AdminRegister
         Me.currentTime_lbl = New System.Windows.Forms.Label()
         Me.currentDate_lbl = New System.Windows.Forms.Label()
         Me.TimeNdate = New System.Windows.Forms.Timer(Me.components)
-        Me.lblProgressBar = New System.Windows.Forms.Label()
         Me.MaterialLabel1 = New MaterialSkin.Controls.MaterialLabel()
         Me.pbStrength = New System.Windows.Forms.ProgressBar()
+        Me.pwStrengthlbl = New MaterialSkin.Controls.MaterialLabel()
+        Me.CaptchaBox1 = New S.Development_Project_Material_Design_.CaptchaBox()
+        Me.CaptchaLbl = New MaterialSkin.Controls.MaterialLabel()
+        Me.CaptchaTxt = New MaterialSkin.Controls.MaterialSingleLineTextField()
+        Me.RefreshCBtn = New MaterialSkin.Controls.MaterialRaisedButton()
+        CType(Me.CaptchaBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'SelectLabel
@@ -117,7 +122,7 @@ Partial Class AdminRegister
         'AddARButton
         '
         Me.AddARButton.Depth = 0
-        Me.AddARButton.Location = New System.Drawing.Point(20, 554)
+        Me.AddARButton.Location = New System.Drawing.Point(37, 793)
         Me.AddARButton.Margin = New System.Windows.Forms.Padding(4)
         Me.AddARButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.AddARButton.Name = "AddARButton"
@@ -130,7 +135,7 @@ Partial Class AdminRegister
         'CloseRegisterARButton
         '
         Me.CloseRegisterARButton.Depth = 0
-        Me.CloseRegisterARButton.Location = New System.Drawing.Point(220, 554)
+        Me.CloseRegisterARButton.Location = New System.Drawing.Point(237, 793)
         Me.CloseRegisterARButton.Margin = New System.Windows.Forms.Padding(4)
         Me.CloseRegisterARButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.CloseRegisterARButton.Name = "CloseRegisterARButton"
@@ -195,17 +200,6 @@ Partial Class AdminRegister
         '
         Me.TimeNdate.Enabled = True
         '
-        'lblProgressBar
-        '
-        Me.lblProgressBar.AutoSize = True
-        Me.lblProgressBar.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.86813!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblProgressBar.Location = New System.Drawing.Point(329, 433)
-        Me.lblProgressBar.Margin = New System.Windows.Forms.Padding(6, 0, 6, 0)
-        Me.lblProgressBar.Name = "lblProgressBar"
-        Me.lblProgressBar.Size = New System.Drawing.Size(285, 35)
-        Me.lblProgressBar.TabIndex = 34
-        Me.lblProgressBar.Text = "Password Strength:"
-        '
         'MaterialLabel1
         '
         Me.MaterialLabel1.AutoSize = True
@@ -222,28 +216,103 @@ Partial Class AdminRegister
         '
         'pbStrength
         '
-        Me.pbStrength.Location = New System.Drawing.Point(863, 518)
+        Me.pbStrength.Location = New System.Drawing.Point(1026, 435)
         Me.pbStrength.Margin = New System.Windows.Forms.Padding(6)
         Me.pbStrength.Name = "pbStrength"
         Me.pbStrength.Size = New System.Drawing.Size(268, 44)
         Me.pbStrength.TabIndex = 36
         Me.pbStrength.Visible = False
         '
+        'pwStrengthlbl
+        '
+        Me.pwStrengthlbl.AutoSize = True
+        Me.pwStrengthlbl.Depth = 0
+        Me.pwStrengthlbl.Font = New System.Drawing.Font("Roboto", 11.0!)
+        Me.pwStrengthlbl.ForeColor = System.Drawing.Color.FromArgb(CType(CType(222, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.pwStrengthlbl.Location = New System.Drawing.Point(316, 435)
+        Me.pwStrengthlbl.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.pwStrengthlbl.MouseState = MaterialSkin.MouseState.HOVER
+        Me.pwStrengthlbl.Name = "pwStrengthlbl"
+        Me.pwStrengthlbl.Size = New System.Drawing.Size(243, 34)
+        Me.pwStrengthlbl.TabIndex = 35
+        Me.pwStrengthlbl.Text = "PasswordStrength"
+        '
+        'CaptchaBox1
+        '
+        Me.CaptchaBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.CaptchaBox1.CaptchaTextLength = 8
+        Me.CaptchaBox1.Location = New System.Drawing.Point(229, 521)
+        Me.CaptchaBox1.Name = "CaptchaBox1"
+        Me.CaptchaBox1.NumberOfLines = 50
+        Me.CaptchaBox1.RandomCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmopqrstuvwxyz!#$%^&*()1234567890"
+        Me.CaptchaBox1.Size = New System.Drawing.Size(436, 120)
+        Me.CaptchaBox1.TabIndex = 37
+        Me.CaptchaBox1.TabStop = False
+        Me.CaptchaBox1.TextColor = System.Drawing.Color.Black
+        '
+        'CaptchaLbl
+        '
+        Me.CaptchaLbl.AutoSize = True
+        Me.CaptchaLbl.Depth = 0
+        Me.CaptchaLbl.Font = New System.Drawing.Font("Roboto", 11.0!)
+        Me.CaptchaLbl.ForeColor = System.Drawing.Color.FromArgb(CType(CType(222, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.CaptchaLbl.Location = New System.Drawing.Point(12, 661)
+        Me.CaptchaLbl.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.CaptchaLbl.MouseState = MaterialSkin.MouseState.HOVER
+        Me.CaptchaLbl.Name = "CaptchaLbl"
+        Me.CaptchaLbl.Size = New System.Drawing.Size(125, 34)
+        Me.CaptchaLbl.TabIndex = 1
+        Me.CaptchaLbl.Text = "Captcha:"
+        '
+        'CaptchaTxt
+        '
+        Me.CaptchaTxt.Depth = 0
+        Me.CaptchaTxt.Hint = ""
+        Me.CaptchaTxt.Location = New System.Drawing.Point(218, 661)
+        Me.CaptchaTxt.Margin = New System.Windows.Forms.Padding(4)
+        Me.CaptchaTxt.MouseState = MaterialSkin.MouseState.HOVER
+        Me.CaptchaTxt.Name = "CaptchaTxt"
+        Me.CaptchaTxt.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
+        Me.CaptchaTxt.SelectedText = ""
+        Me.CaptchaTxt.SelectionLength = 0
+        Me.CaptchaTxt.SelectionStart = 0
+        Me.CaptchaTxt.Size = New System.Drawing.Size(994, 39)
+        Me.CaptchaTxt.TabIndex = 2
+        Me.CaptchaTxt.UseSystemPasswordChar = False
+        '
+        'RefreshCBtn
+        '
+        Me.RefreshCBtn.Cursor = System.Windows.Forms.Cursors.Default
+        Me.RefreshCBtn.Depth = 0
+        Me.RefreshCBtn.Location = New System.Drawing.Point(38, 739)
+        Me.RefreshCBtn.Margin = New System.Windows.Forms.Padding(4)
+        Me.RefreshCBtn.MouseState = MaterialSkin.MouseState.HOVER
+        Me.RefreshCBtn.Name = "RefreshCBtn"
+        Me.RefreshCBtn.Primary = True
+        Me.RefreshCBtn.Size = New System.Drawing.Size(293, 46)
+        Me.RefreshCBtn.TabIndex = 5
+        Me.RefreshCBtn.Text = "Refresh Captcha"
+        Me.RefreshCBtn.UseVisualStyleBackColor = True
+        '
         'AdminRegister
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(12.0!, 25.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1366, 786)
+        Me.ClientSize = New System.Drawing.Size(1366, 904)
+        Me.Controls.Add(Me.CaptchaBox1)
         Me.Controls.Add(Me.pbStrength)
+        Me.Controls.Add(Me.pwStrengthlbl)
         Me.Controls.Add(Me.MaterialLabel1)
-        Me.Controls.Add(Me.lblProgressBar)
         Me.Controls.Add(Me.currentTime_lbl)
         Me.Controls.Add(Me.currentDate_lbl)
         Me.Controls.Add(Me.position_lbl)
         Me.Controls.Add(Me.position_CB)
         Me.Controls.Add(Me.CloseRegisterARButton)
+        Me.Controls.Add(Me.RefreshCBtn)
         Me.Controls.Add(Me.AddARButton)
+        Me.Controls.Add(Me.CaptchaTxt)
         Me.Controls.Add(Me.password_txt)
+        Me.Controls.Add(Me.CaptchaLbl)
         Me.Controls.Add(Me.username_txt)
         Me.Controls.Add(Me.password_lbl)
         Me.Controls.Add(Me.username_lbl)
@@ -253,6 +322,7 @@ Partial Class AdminRegister
         Me.Name = "AdminRegister"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Account Registration"
+        CType(Me.CaptchaBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -272,4 +342,9 @@ Partial Class AdminRegister
     Friend WithEvents lblProgressBar As Label
     Friend WithEvents MaterialLabel1 As MaterialSkin.Controls.MaterialLabel
     Friend WithEvents pbStrength As ProgressBar
+    Friend WithEvents pwStrengthlbl As MaterialSkin.Controls.MaterialLabel
+    Friend WithEvents CaptchaBox1 As CaptchaBox
+    Friend WithEvents CaptchaLbl As MaterialSkin.Controls.MaterialLabel
+    Friend WithEvents CaptchaTxt As MaterialSkin.Controls.MaterialSingleLineTextField
+    Friend WithEvents RefreshCBtn As MaterialSkin.Controls.MaterialRaisedButton
 End Class
