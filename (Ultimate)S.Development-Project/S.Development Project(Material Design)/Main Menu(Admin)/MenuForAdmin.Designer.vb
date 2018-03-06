@@ -34,6 +34,7 @@ Partial Class MenuForAdmin
         Me.DeleteAcc_btn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.editAcc_btn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.FileHashingBtn = New MaterialSkin.Controls.MaterialRaisedButton()
+        Me.FolderLockBtn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.SuspendLayout()
         '
         'RegisterAccMMButton
@@ -41,7 +42,7 @@ Partial Class MenuForAdmin
         Me.RegisterAccMMButton.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.RegisterAccMMButton.Depth = 0
         Me.RegisterAccMMButton.Location = New System.Drawing.Point(112, 163)
-        Me.RegisterAccMMButton.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.RegisterAccMMButton.Margin = New System.Windows.Forms.Padding(4)
         Me.RegisterAccMMButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.RegisterAccMMButton.Name = "RegisterAccMMButton"
         Me.RegisterAccMMButton.Primary = True
@@ -55,7 +56,7 @@ Partial Class MenuForAdmin
         Me.RFMMMButton.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.RFMMMButton.Depth = 0
         Me.RFMMMButton.Location = New System.Drawing.Point(112, 394)
-        Me.RFMMMButton.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.RFMMMButton.Margin = New System.Windows.Forms.Padding(4)
         Me.RFMMMButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.RFMMMButton.Name = "RFMMMButton"
         Me.RFMMMButton.Primary = True
@@ -69,7 +70,7 @@ Partial Class MenuForAdmin
         Me.ReservationMMMButton.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.ReservationMMMButton.Depth = 0
         Me.ReservationMMMButton.Location = New System.Drawing.Point(112, 467)
-        Me.ReservationMMMButton.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.ReservationMMMButton.Margin = New System.Windows.Forms.Padding(4)
         Me.ReservationMMMButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.ReservationMMMButton.Name = "ReservationMMMButton"
         Me.ReservationMMMButton.Primary = True
@@ -83,7 +84,7 @@ Partial Class MenuForAdmin
         Me.FDMMMButton.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.FDMMMButton.Depth = 0
         Me.FDMMMButton.Location = New System.Drawing.Point(112, 546)
-        Me.FDMMMButton.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.FDMMMButton.Margin = New System.Windows.Forms.Padding(4)
         Me.FDMMMButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.FDMMMButton.Name = "FDMMMButton"
         Me.FDMMMButton.Primary = True
@@ -97,7 +98,7 @@ Partial Class MenuForAdmin
         Me.logOut_btn.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.logOut_btn.Depth = 0
         Me.logOut_btn.Location = New System.Drawing.Point(112, 623)
-        Me.logOut_btn.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.logOut_btn.Margin = New System.Windows.Forms.Padding(4)
         Me.logOut_btn.MouseState = MaterialSkin.MouseState.HOVER
         Me.logOut_btn.Name = "logOut_btn"
         Me.logOut_btn.Primary = True
@@ -141,7 +142,7 @@ Partial Class MenuForAdmin
         Me.DeleteAcc_btn.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.DeleteAcc_btn.Depth = 0
         Me.DeleteAcc_btn.Location = New System.Drawing.Point(112, 317)
-        Me.DeleteAcc_btn.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.DeleteAcc_btn.Margin = New System.Windows.Forms.Padding(4)
         Me.DeleteAcc_btn.MouseState = MaterialSkin.MouseState.HOVER
         Me.DeleteAcc_btn.Name = "DeleteAcc_btn"
         Me.DeleteAcc_btn.Primary = True
@@ -155,7 +156,7 @@ Partial Class MenuForAdmin
         Me.editAcc_btn.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.editAcc_btn.Depth = 0
         Me.editAcc_btn.Location = New System.Drawing.Point(112, 240)
-        Me.editAcc_btn.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.editAcc_btn.Margin = New System.Windows.Forms.Padding(4)
         Me.editAcc_btn.MouseState = MaterialSkin.MouseState.HOVER
         Me.editAcc_btn.Name = "editAcc_btn"
         Me.editAcc_btn.Primary = True
@@ -168,7 +169,7 @@ Partial Class MenuForAdmin
         '
         Me.FileHashingBtn.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.FileHashingBtn.Depth = 0
-        Me.FileHashingBtn.Location = New System.Drawing.Point(733, 163)
+        Me.FileHashingBtn.Location = New System.Drawing.Point(715, 163)
         Me.FileHashingBtn.Margin = New System.Windows.Forms.Padding(4)
         Me.FileHashingBtn.MouseState = MaterialSkin.MouseState.HOVER
         Me.FileHashingBtn.Name = "FileHashingBtn"
@@ -178,11 +179,26 @@ Partial Class MenuForAdmin
         Me.FileHashingBtn.Text = "File Hashing"
         Me.FileHashingBtn.UseVisualStyleBackColor = True
         '
+        'FolderLockBtn
+        '
+        Me.FolderLockBtn.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.FolderLockBtn.Depth = 0
+        Me.FolderLockBtn.Location = New System.Drawing.Point(715, 240)
+        Me.FolderLockBtn.Margin = New System.Windows.Forms.Padding(4)
+        Me.FolderLockBtn.MouseState = MaterialSkin.MouseState.HOVER
+        Me.FolderLockBtn.Name = "FolderLockBtn"
+        Me.FolderLockBtn.Primary = True
+        Me.FolderLockBtn.Size = New System.Drawing.Size(544, 56)
+        Me.FolderLockBtn.TabIndex = 35
+        Me.FolderLockBtn.Text = "Folder Lock"
+        Me.FolderLockBtn.UseVisualStyleBackColor = True
+        '
         'MenuForAdmin
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(12.0!, 25.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1366, 767)
+        Me.Controls.Add(Me.FolderLockBtn)
         Me.Controls.Add(Me.editAcc_btn)
         Me.Controls.Add(Me.DeleteAcc_btn)
         Me.Controls.Add(Me.currentTime_lbl)
@@ -193,7 +209,7 @@ Partial Class MenuForAdmin
         Me.Controls.Add(Me.ReservationMMMButton)
         Me.Controls.Add(Me.RFMMMButton)
         Me.Controls.Add(Me.RegisterAccMMButton)
-        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Margin = New System.Windows.Forms.Padding(4)
         Me.MaximizeBox = False
         Me.Name = "MenuForAdmin"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
@@ -213,4 +229,5 @@ Partial Class MenuForAdmin
     Friend WithEvents DeleteAcc_btn As MaterialSkin.Controls.MaterialRaisedButton
     Friend WithEvents editAcc_btn As MaterialSkin.Controls.MaterialRaisedButton
     Friend WithEvents FileHashingBtn As MaterialSkin.Controls.MaterialRaisedButton
+    Friend WithEvents FolderLockBtn As MaterialSkin.Controls.MaterialRaisedButton
 End Class

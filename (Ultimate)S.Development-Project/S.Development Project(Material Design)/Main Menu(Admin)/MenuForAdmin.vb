@@ -15,7 +15,7 @@ Public Class MenuForAdmin
         Dim y As String
         y = MsgBox("Logout confirmation.", MsgBoxStyle.YesNo)
         If y = vbYes Then
-            FileHashing.Show()
+            Login.Show()
             Me.Close()
         End If
     End Sub
@@ -60,4 +60,8 @@ Public Class MenuForAdmin
         Me.Hide()
     End Sub
 
+    Private Sub FolderLockBtn_Click(sender As Object, e As EventArgs) Handles FolderLockBtn.Click
+        FolderLock.Show()
+        Me.Hide()
+    End Sub
 End Class
