@@ -203,6 +203,12 @@
     <Compile Include="Main Menu%28Admin%29\MenuForAdmin.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Retrieve Account Credentials\RetriveAccountCredentials.Designer.vb">
+      <DependentUpon>RetriveAccountCredentials.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Retrieve Account Credentials\RetriveAccountCredentials.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="RFManagement\RFMDeleteDataEntry.Designer.vb">
       <DependentUpon>RFMDeleteDataEntry.vb</DependentUpon>
     </Compile>
@@ -354,6 +360,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FirstScreens\FirstRegister.resx">
       <DependentUpon>FirstRegister.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Retrieve Account Credentials\RetriveAccountCredentials.resx">
+      <DependentUpon>RetriveAccountCredentials.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="RFManagement\RFMDeleteDataEntry.resx">
       <DependentUpon>RFMDeleteDataEntry.vb</DependentUpon>

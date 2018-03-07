@@ -42,3 +42,4 @@ C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Pro
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FileHashingRFM.resources
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.FileHashingRM.resources
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Keylogger.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RetriveAccountCredentials.resources

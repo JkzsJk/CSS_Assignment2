@@ -73,4 +73,9 @@ Public Class MenuForAdmin
     Private Sub Keylogger_btn_Click(sender As Object, e As EventArgs) Handles Keylogger_btn.Click
         Keylogger.Show()
     End Sub
+
+    Private Sub RAC_btn_Click(sender As Object, e As EventArgs) Handles RAC_btn.Click
+        RetriveAccountCredentials.Show()
+        Me.Hide()
+    End Sub
 End Class

@@ -37,6 +37,7 @@ Partial Class MenuForAdmin
         Me.FolderLockBtn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.WebsiteBlocker_btn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.Keylogger_btn = New MaterialSkin.Controls.MaterialRaisedButton()
+        Me.RAC_btn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.SuspendLayout()
         '
         'RegisterAccMMButton
@@ -223,11 +224,26 @@ Partial Class MenuForAdmin
         Me.Keylogger_btn.Text = "Keylogger"
         Me.Keylogger_btn.UseVisualStyleBackColor = True
         '
+        'RAC_btn
+        '
+        Me.RAC_btn.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.RAC_btn.Depth = 0
+        Me.RAC_btn.Location = New System.Drawing.Point(717, 467)
+        Me.RAC_btn.Margin = New System.Windows.Forms.Padding(4)
+        Me.RAC_btn.MouseState = MaterialSkin.MouseState.HOVER
+        Me.RAC_btn.Name = "RAC_btn"
+        Me.RAC_btn.Primary = True
+        Me.RAC_btn.Size = New System.Drawing.Size(544, 56)
+        Me.RAC_btn.TabIndex = 37
+        Me.RAC_btn.Text = "Send Account Credentials"
+        Me.RAC_btn.UseVisualStyleBackColor = True
+        '
         'MenuForAdmin
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(12.0!, 25.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1366, 767)
+        Me.Controls.Add(Me.RAC_btn)
         Me.Controls.Add(Me.Keylogger_btn)
         Me.Controls.Add(Me.WebsiteBlocker_btn)
         Me.Controls.Add(Me.FolderLockBtn)
@@ -264,4 +280,5 @@ Partial Class MenuForAdmin
     Friend WithEvents FolderLockBtn As MaterialSkin.Controls.MaterialRaisedButton
     Friend WithEvents WebsiteBlocker_btn As MaterialSkin.Controls.MaterialRaisedButton
     Friend WithEvents Keylogger_btn As MaterialSkin.Controls.MaterialRaisedButton
+    Friend WithEvents RAC_btn As MaterialSkin.Controls.MaterialRaisedButton
 End Class
