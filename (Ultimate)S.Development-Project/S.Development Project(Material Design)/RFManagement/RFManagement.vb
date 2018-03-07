@@ -11,6 +11,12 @@ Public Class RFManagement
     Dim Sql, Sql1, Sql2, Sql3 As String
     Dim ButtonCheck As Boolean
     Dim totalRec, totalRec1, totalRec2, totalRec3, curRec, curRec1, curRec2, curRec3 As Integer
+
+    Private Sub filehashing_btn_Click(sender As Object, e As EventArgs) Handles filehashing_btn.Click
+        FileHashingRFM.Show()
+        Me.Hide()
+    End Sub
+
     Dim a As Boolean = False
 
     Private Sub RFManagement_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing

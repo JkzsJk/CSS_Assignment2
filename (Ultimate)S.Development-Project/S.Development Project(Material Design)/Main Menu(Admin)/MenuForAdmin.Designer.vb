@@ -36,6 +36,7 @@ Partial Class MenuForAdmin
         Me.FileHashingBtn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.FolderLockBtn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.WebsiteBlocker_btn = New MaterialSkin.Controls.MaterialRaisedButton()
+        Me.Keylogger_btn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.SuspendLayout()
         '
         'RegisterAccMMButton
@@ -208,11 +209,26 @@ Partial Class MenuForAdmin
         Me.WebsiteBlocker_btn.Text = "Website Blocker"
         Me.WebsiteBlocker_btn.UseVisualStyleBackColor = True
         '
+        'Keylogger_btn
+        '
+        Me.Keylogger_btn.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.Keylogger_btn.Depth = 0
+        Me.Keylogger_btn.Location = New System.Drawing.Point(715, 394)
+        Me.Keylogger_btn.Margin = New System.Windows.Forms.Padding(4)
+        Me.Keylogger_btn.MouseState = MaterialSkin.MouseState.HOVER
+        Me.Keylogger_btn.Name = "Keylogger_btn"
+        Me.Keylogger_btn.Primary = True
+        Me.Keylogger_btn.Size = New System.Drawing.Size(544, 56)
+        Me.Keylogger_btn.TabIndex = 36
+        Me.Keylogger_btn.Text = "Keylogger"
+        Me.Keylogger_btn.UseVisualStyleBackColor = True
+        '
         'MenuForAdmin
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(12.0!, 25.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1366, 767)
+        Me.Controls.Add(Me.Keylogger_btn)
         Me.Controls.Add(Me.WebsiteBlocker_btn)
         Me.Controls.Add(Me.FolderLockBtn)
         Me.Controls.Add(Me.editAcc_btn)
@@ -247,4 +263,5 @@ Partial Class MenuForAdmin
     Friend WithEvents FileHashingBtn As MaterialSkin.Controls.MaterialRaisedButton
     Friend WithEvents FolderLockBtn As MaterialSkin.Controls.MaterialRaisedButton
     Friend WithEvents WebsiteBlocker_btn As MaterialSkin.Controls.MaterialRaisedButton
+    Friend WithEvents Keylogger_btn As MaterialSkin.Controls.MaterialRaisedButton
 End Class

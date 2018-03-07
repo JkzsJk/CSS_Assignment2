@@ -184,6 +184,12 @@ Public Class FrontDeskManagement
         MenuForAdmin.Show()
         Me.Hide()
     End Sub
+
+    Private Sub filehashing_btn_Click(sender As Object, e As EventArgs) Handles filehashing_btn.Click
+        FileHashingFDM.Show()
+        Me.Hide()
+    End Sub
+
     Private Sub LogoutFDMButton_Click(sender As Object, e As EventArgs) Handles LogoutFDMButton.Click
         Dim y As String
         y = MsgBox("Logout confirmation.", MsgBoxStyle.YesNo)

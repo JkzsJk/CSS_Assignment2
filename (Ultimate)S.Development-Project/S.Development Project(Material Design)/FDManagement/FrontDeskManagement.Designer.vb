@@ -134,6 +134,7 @@ Partial Class FrontDeskManagement
         Me.SearchFDMEntry = New MaterialSkin.Controls.MaterialSingleLineTextField()
         Me.SearchFDMButton = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.refresh_btn = New MaterialSkin.Controls.MaterialRaisedButton()
+        Me.filehashing_btn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.RFTabControl.SuspendLayout()
         Me.checkIn_tab.SuspendLayout()
         Me.checkOut_tab.SuspendLayout()
@@ -146,11 +147,11 @@ Partial Class FrontDeskManagement
         '
         Me.MaterialTabSelector1.BaseTabControl = Me.RFTabControl
         Me.MaterialTabSelector1.Depth = 0
-        Me.MaterialTabSelector1.Location = New System.Drawing.Point(-10, 64)
-        Me.MaterialTabSelector1.Margin = New System.Windows.Forms.Padding(2)
+        Me.MaterialTabSelector1.Location = New System.Drawing.Point(-20, 123)
+        Me.MaterialTabSelector1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.MaterialTabSelector1.MouseState = MaterialSkin.MouseState.HOVER
         Me.MaterialTabSelector1.Name = "MaterialTabSelector1"
-        Me.MaterialTabSelector1.Size = New System.Drawing.Size(708, 25)
+        Me.MaterialTabSelector1.Size = New System.Drawing.Size(1416, 48)
         Me.MaterialTabSelector1.TabIndex = 25
         Me.MaterialTabSelector1.Text = "MaterialTabSelector1"
         '
@@ -162,22 +163,22 @@ Partial Class FrontDeskManagement
         Me.RFTabControl.Controls.Add(Me.TabPage2)
         Me.RFTabControl.Controls.Add(Me.TabPage3)
         Me.RFTabControl.Depth = 0
-        Me.RFTabControl.Location = New System.Drawing.Point(5, 92)
-        Me.RFTabControl.Margin = New System.Windows.Forms.Padding(2)
+        Me.RFTabControl.Location = New System.Drawing.Point(10, 177)
+        Me.RFTabControl.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.RFTabControl.MouseState = MaterialSkin.MouseState.HOVER
         Me.RFTabControl.Name = "RFTabControl"
         Me.RFTabControl.SelectedIndex = 0
-        Me.RFTabControl.Size = New System.Drawing.Size(671, 193)
+        Me.RFTabControl.Size = New System.Drawing.Size(1342, 371)
         Me.RFTabControl.TabIndex = 24
         '
         'checkIn_tab
         '
         Me.checkIn_tab.Controls.Add(Me.checkin_LV)
-        Me.checkIn_tab.Location = New System.Drawing.Point(4, 22)
-        Me.checkIn_tab.Margin = New System.Windows.Forms.Padding(2)
+        Me.checkIn_tab.Location = New System.Drawing.Point(4, 34)
+        Me.checkIn_tab.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.checkIn_tab.Name = "checkIn_tab"
-        Me.checkIn_tab.Padding = New System.Windows.Forms.Padding(2)
-        Me.checkIn_tab.Size = New System.Drawing.Size(663, 167)
+        Me.checkIn_tab.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.checkIn_tab.Size = New System.Drawing.Size(1334, 333)
         Me.checkIn_tab.TabIndex = 0
         Me.checkIn_tab.Text = "Check-In"
         Me.checkIn_tab.UseVisualStyleBackColor = True
@@ -187,9 +188,10 @@ Partial Class FrontDeskManagement
         Me.checkin_LV.Columns.AddRange(New System.Windows.Forms.ColumnHeader() {Me.CheckInID, Me.ColumnHeader1, Me.ColumnHeader2, Me.ColumnHeader3, Me.ColumnHeader4, Me.ColumnHeader7, Me.ColumnHeader11, Me.ColumnHeader12, Me.ColumnHeader13, Me.ColumnHeader5, Me.ColumnHeader6})
         Me.checkin_LV.Dock = System.Windows.Forms.DockStyle.Fill
         Me.checkin_LV.GridLines = True
-        Me.checkin_LV.Location = New System.Drawing.Point(2, 2)
+        Me.checkin_LV.Location = New System.Drawing.Point(4, 4)
+        Me.checkin_LV.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.checkin_LV.Name = "checkin_LV"
-        Me.checkin_LV.Size = New System.Drawing.Size(659, 163)
+        Me.checkin_LV.Size = New System.Drawing.Size(1326, 325)
         Me.checkin_LV.TabIndex = 1
         Me.checkin_LV.UseCompatibleStateImageBehavior = False
         Me.checkin_LV.View = System.Windows.Forms.View.Details
@@ -259,11 +261,11 @@ Partial Class FrontDeskManagement
         'checkOut_tab
         '
         Me.checkOut_tab.Controls.Add(Me.checkout_LV)
-        Me.checkOut_tab.Location = New System.Drawing.Point(4, 22)
-        Me.checkOut_tab.Margin = New System.Windows.Forms.Padding(2)
+        Me.checkOut_tab.Location = New System.Drawing.Point(4, 34)
+        Me.checkOut_tab.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.checkOut_tab.Name = "checkOut_tab"
-        Me.checkOut_tab.Padding = New System.Windows.Forms.Padding(2)
-        Me.checkOut_tab.Size = New System.Drawing.Size(663, 167)
+        Me.checkOut_tab.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.checkOut_tab.Size = New System.Drawing.Size(1334, 333)
         Me.checkOut_tab.TabIndex = 1
         Me.checkOut_tab.Text = "Check-Out"
         Me.checkOut_tab.UseVisualStyleBackColor = True
@@ -273,9 +275,10 @@ Partial Class FrontDeskManagement
         Me.checkout_LV.Columns.AddRange(New System.Windows.Forms.ColumnHeader() {Me.ColumnHeader8, Me.ColumnHeader9, Me.ColumnHeader10, Me.ColumnHeader14, Me.ColumnHeader15, Me.ColumnHeader16, Me.ColumnHeader17, Me.ColumnHeader18, Me.ColumnHeader19})
         Me.checkout_LV.Dock = System.Windows.Forms.DockStyle.Fill
         Me.checkout_LV.GridLines = True
-        Me.checkout_LV.Location = New System.Drawing.Point(2, 2)
+        Me.checkout_LV.Location = New System.Drawing.Point(4, 4)
+        Me.checkout_LV.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.checkout_LV.Name = "checkout_LV"
-        Me.checkout_LV.Size = New System.Drawing.Size(659, 163)
+        Me.checkout_LV.Size = New System.Drawing.Size(1326, 325)
         Me.checkout_LV.TabIndex = 1
         Me.checkout_LV.UseCompatibleStateImageBehavior = False
         Me.checkout_LV.View = System.Windows.Forms.View.Details
@@ -333,9 +336,10 @@ Partial Class FrontDeskManagement
         'TabPage1
         '
         Me.TabPage1.Controls.Add(Me.reservation_LV)
-        Me.TabPage1.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage1.Location = New System.Drawing.Point(4, 34)
+        Me.TabPage1.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.TabPage1.Name = "TabPage1"
-        Me.TabPage1.Size = New System.Drawing.Size(663, 167)
+        Me.TabPage1.Size = New System.Drawing.Size(1334, 333)
         Me.TabPage1.TabIndex = 2
         Me.TabPage1.Text = "Reservation"
         Me.TabPage1.UseVisualStyleBackColor = True
@@ -346,8 +350,9 @@ Partial Class FrontDeskManagement
         Me.reservation_LV.Dock = System.Windows.Forms.DockStyle.Fill
         Me.reservation_LV.GridLines = True
         Me.reservation_LV.Location = New System.Drawing.Point(0, 0)
+        Me.reservation_LV.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.reservation_LV.Name = "reservation_LV"
-        Me.reservation_LV.Size = New System.Drawing.Size(663, 167)
+        Me.reservation_LV.Size = New System.Drawing.Size(1334, 333)
         Me.reservation_LV.TabIndex = 1
         Me.reservation_LV.UseCompatibleStateImageBehavior = False
         Me.reservation_LV.View = System.Windows.Forms.View.Details
@@ -410,9 +415,10 @@ Partial Class FrontDeskManagement
         'TabPage2
         '
         Me.TabPage2.Controls.Add(Me.payment_LV)
-        Me.TabPage2.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage2.Location = New System.Drawing.Point(4, 34)
+        Me.TabPage2.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.TabPage2.Name = "TabPage2"
-        Me.TabPage2.Size = New System.Drawing.Size(663, 167)
+        Me.TabPage2.Size = New System.Drawing.Size(1334, 333)
         Me.TabPage2.TabIndex = 3
         Me.TabPage2.Text = "Payment"
         Me.TabPage2.UseVisualStyleBackColor = True
@@ -426,8 +432,9 @@ Partial Class FrontDeskManagement
         Me.payment_LV.HotTracking = True
         Me.payment_LV.HoverSelection = True
         Me.payment_LV.Location = New System.Drawing.Point(0, 0)
+        Me.payment_LV.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.payment_LV.Name = "payment_LV"
-        Me.payment_LV.Size = New System.Drawing.Size(663, 167)
+        Me.payment_LV.Size = New System.Drawing.Size(1334, 333)
         Me.payment_LV.TabIndex = 1
         Me.payment_LV.UseCompatibleStateImageBehavior = False
         Me.payment_LV.View = System.Windows.Forms.View.Details
@@ -497,9 +504,10 @@ Partial Class FrontDeskManagement
         Me.TabPage3.Controls.Add(Me.CheckOutS_LV)
         Me.TabPage3.Controls.Add(Me.CheckInS_LV)
         Me.TabPage3.Controls.Add(Me.ReservationS_LV)
-        Me.TabPage3.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage3.Location = New System.Drawing.Point(4, 34)
+        Me.TabPage3.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.TabPage3.Name = "TabPage3"
-        Me.TabPage3.Size = New System.Drawing.Size(663, 167)
+        Me.TabPage3.Size = New System.Drawing.Size(1334, 333)
         Me.TabPage3.TabIndex = 4
         Me.TabPage3.Text = "Search"
         Me.TabPage3.UseVisualStyleBackColor = True
@@ -513,8 +521,9 @@ Partial Class FrontDeskManagement
         Me.paymentS_LV.HotTracking = True
         Me.paymentS_LV.HoverSelection = True
         Me.paymentS_LV.Location = New System.Drawing.Point(0, 0)
+        Me.paymentS_LV.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.paymentS_LV.Name = "paymentS_LV"
-        Me.paymentS_LV.Size = New System.Drawing.Size(663, 167)
+        Me.paymentS_LV.Size = New System.Drawing.Size(1334, 333)
         Me.paymentS_LV.TabIndex = 17
         Me.paymentS_LV.UseCompatibleStateImageBehavior = False
         Me.paymentS_LV.View = System.Windows.Forms.View.Details
@@ -585,8 +594,9 @@ Partial Class FrontDeskManagement
         Me.CheckOutS_LV.Dock = System.Windows.Forms.DockStyle.Fill
         Me.CheckOutS_LV.GridLines = True
         Me.CheckOutS_LV.Location = New System.Drawing.Point(0, 0)
+        Me.CheckOutS_LV.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.CheckOutS_LV.Name = "CheckOutS_LV"
-        Me.CheckOutS_LV.Size = New System.Drawing.Size(663, 167)
+        Me.CheckOutS_LV.Size = New System.Drawing.Size(1334, 333)
         Me.CheckOutS_LV.TabIndex = 16
         Me.CheckOutS_LV.UseCompatibleStateImageBehavior = False
         Me.CheckOutS_LV.View = System.Windows.Forms.View.Details
@@ -647,8 +657,9 @@ Partial Class FrontDeskManagement
         Me.CheckInS_LV.Dock = System.Windows.Forms.DockStyle.Fill
         Me.CheckInS_LV.GridLines = True
         Me.CheckInS_LV.Location = New System.Drawing.Point(0, 0)
+        Me.CheckInS_LV.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.CheckInS_LV.Name = "CheckInS_LV"
-        Me.CheckInS_LV.Size = New System.Drawing.Size(663, 167)
+        Me.CheckInS_LV.Size = New System.Drawing.Size(1334, 333)
         Me.CheckInS_LV.TabIndex = 15
         Me.CheckInS_LV.UseCompatibleStateImageBehavior = False
         Me.CheckInS_LV.View = System.Windows.Forms.View.Details
@@ -721,8 +732,9 @@ Partial Class FrontDeskManagement
         Me.ReservationS_LV.Dock = System.Windows.Forms.DockStyle.Fill
         Me.ReservationS_LV.GridLines = True
         Me.ReservationS_LV.Location = New System.Drawing.Point(0, 0)
+        Me.ReservationS_LV.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.ReservationS_LV.Name = "ReservationS_LV"
-        Me.ReservationS_LV.Size = New System.Drawing.Size(663, 167)
+        Me.ReservationS_LV.Size = New System.Drawing.Size(1334, 333)
         Me.ReservationS_LV.TabIndex = 14
         Me.ReservationS_LV.UseCompatibleStateImageBehavior = False
         Me.ReservationS_LV.View = System.Windows.Forms.View.Details
@@ -788,13 +800,13 @@ Partial Class FrontDeskManagement
         Me.LogoutFDMButton.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
         Me.LogoutFDMButton.BackColor = System.Drawing.Color.Transparent
         Me.LogoutFDMButton.Depth = 0
-        Me.LogoutFDMButton.Location = New System.Drawing.Point(617, 363)
-        Me.LogoutFDMButton.Margin = New System.Windows.Forms.Padding(2, 3, 2, 3)
-        Me.LogoutFDMButton.MinimumSize = New System.Drawing.Size(55, 16)
+        Me.LogoutFDMButton.Location = New System.Drawing.Point(1234, 698)
+        Me.LogoutFDMButton.Margin = New System.Windows.Forms.Padding(4, 6, 4, 6)
+        Me.LogoutFDMButton.MinimumSize = New System.Drawing.Size(110, 31)
         Me.LogoutFDMButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.LogoutFDMButton.Name = "LogoutFDMButton"
         Me.LogoutFDMButton.Primary = False
-        Me.LogoutFDMButton.Size = New System.Drawing.Size(65, 36)
+        Me.LogoutFDMButton.Size = New System.Drawing.Size(116, 36)
         Me.LogoutFDMButton.TabIndex = 36
         Me.LogoutFDMButton.Text = "Logout"
         Me.LogoutFDMButton.UseVisualStyleBackColor = False
@@ -802,12 +814,12 @@ Partial Class FrontDeskManagement
         'adminMenu_btn
         '
         Me.adminMenu_btn.Depth = 0
-        Me.adminMenu_btn.Location = New System.Drawing.Point(575, 297)
-        Me.adminMenu_btn.Margin = New System.Windows.Forms.Padding(2)
+        Me.adminMenu_btn.Location = New System.Drawing.Point(1150, 571)
+        Me.adminMenu_btn.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.adminMenu_btn.MouseState = MaterialSkin.MouseState.HOVER
         Me.adminMenu_btn.Name = "adminMenu_btn"
         Me.adminMenu_btn.Primary = True
-        Me.adminMenu_btn.Size = New System.Drawing.Size(97, 23)
+        Me.adminMenu_btn.Size = New System.Drawing.Size(194, 44)
         Me.adminMenu_btn.TabIndex = 44
         Me.adminMenu_btn.Text = "Admin menu"
         Me.adminMenu_btn.UseVisualStyleBackColor = True
@@ -818,9 +830,10 @@ Partial Class FrontDeskManagement
         Me.currentTime_lbl.AutoSize = True
         Me.currentTime_lbl.BackColor = System.Drawing.Color.Transparent
         Me.currentTime_lbl.ForeColor = System.Drawing.Color.White
-        Me.currentTime_lbl.Location = New System.Drawing.Point(601, 37)
+        Me.currentTime_lbl.Location = New System.Drawing.Point(1202, 71)
+        Me.currentTime_lbl.Margin = New System.Windows.Forms.Padding(6, 0, 6, 0)
         Me.currentTime_lbl.Name = "currentTime_lbl"
-        Me.currentTime_lbl.Size = New System.Drawing.Size(30, 13)
+        Me.currentTime_lbl.Size = New System.Drawing.Size(59, 25)
         Me.currentTime_lbl.TabIndex = 51
         Me.currentTime_lbl.Text = "Time"
         '
@@ -829,9 +842,10 @@ Partial Class FrontDeskManagement
         Me.currentDate_lbl.AutoSize = True
         Me.currentDate_lbl.BackColor = System.Drawing.Color.Transparent
         Me.currentDate_lbl.ForeColor = System.Drawing.Color.White
-        Me.currentDate_lbl.Location = New System.Drawing.Point(537, 37)
+        Me.currentDate_lbl.Location = New System.Drawing.Point(1074, 71)
+        Me.currentDate_lbl.Margin = New System.Windows.Forms.Padding(6, 0, 6, 0)
         Me.currentDate_lbl.Name = "currentDate_lbl"
-        Me.currentDate_lbl.Size = New System.Drawing.Size(30, 13)
+        Me.currentDate_lbl.Size = New System.Drawing.Size(57, 25)
         Me.currentDate_lbl.TabIndex = 50
         Me.currentDate_lbl.Text = "Date"
         '
@@ -846,10 +860,10 @@ Partial Class FrontDeskManagement
         Me.Role.BackColor = System.Drawing.Color.Transparent
         Me.Role.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Role.ForeColor = System.Drawing.Color.White
-        Me.Role.Location = New System.Drawing.Point(497, 37)
-        Me.Role.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
+        Me.Role.Location = New System.Drawing.Point(994, 71)
+        Me.Role.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Role.Name = "Role"
-        Me.Role.Size = New System.Drawing.Size(24, 13)
+        Me.Role.Size = New System.Drawing.Size(48, 25)
         Me.Role.TabIndex = 53
         Me.Role.Text = "role"
         '
@@ -860,22 +874,22 @@ Partial Class FrontDeskManagement
         Me.nameID.BackColor = System.Drawing.Color.Transparent
         Me.nameID.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.nameID.ForeColor = System.Drawing.Color.White
-        Me.nameID.Location = New System.Drawing.Point(442, 37)
-        Me.nameID.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
+        Me.nameID.Location = New System.Drawing.Point(884, 71)
+        Me.nameID.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.nameID.Name = "nameID"
-        Me.nameID.Size = New System.Drawing.Size(33, 13)
+        Me.nameID.Size = New System.Drawing.Size(65, 25)
         Me.nameID.TabIndex = 52
         Me.nameID.Text = "name"
         '
         'MaterialRaisedButton2
         '
         Me.MaterialRaisedButton2.Depth = 0
-        Me.MaterialRaisedButton2.Location = New System.Drawing.Point(239, 325)
-        Me.MaterialRaisedButton2.Margin = New System.Windows.Forms.Padding(2)
+        Me.MaterialRaisedButton2.Location = New System.Drawing.Point(380, 625)
+        Me.MaterialRaisedButton2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.MaterialRaisedButton2.MouseState = MaterialSkin.MouseState.HOVER
         Me.MaterialRaisedButton2.Name = "MaterialRaisedButton2"
         Me.MaterialRaisedButton2.Primary = True
-        Me.MaterialRaisedButton2.Size = New System.Drawing.Size(175, 23)
+        Me.MaterialRaisedButton2.Size = New System.Drawing.Size(350, 44)
         Me.MaterialRaisedButton2.TabIndex = 63
         Me.MaterialRaisedButton2.Text = "Add Payment"
         Me.MaterialRaisedButton2.UseVisualStyleBackColor = True
@@ -885,20 +899,21 @@ Partial Class FrontDeskManagement
         Me.search_CB.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.search_CB.FormattingEnabled = True
         Me.search_CB.Items.AddRange(New Object() {"Check-In ID", "Check-Out ID", "Reservation ID", "Payment ID"})
-        Me.search_CB.Location = New System.Drawing.Point(88, 364)
+        Me.search_CB.Location = New System.Drawing.Point(176, 700)
+        Me.search_CB.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.search_CB.Name = "search_CB"
-        Me.search_CB.Size = New System.Drawing.Size(107, 21)
+        Me.search_CB.Size = New System.Drawing.Size(210, 33)
         Me.search_CB.TabIndex = 56
         '
         'MaterialRaisedButton1
         '
         Me.MaterialRaisedButton1.Depth = 0
-        Me.MaterialRaisedButton1.Location = New System.Drawing.Point(307, 298)
-        Me.MaterialRaisedButton1.Margin = New System.Windows.Forms.Padding(2)
+        Me.MaterialRaisedButton1.Location = New System.Drawing.Point(614, 573)
+        Me.MaterialRaisedButton1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.MaterialRaisedButton1.MouseState = MaterialSkin.MouseState.HOVER
         Me.MaterialRaisedButton1.Name = "MaterialRaisedButton1"
         Me.MaterialRaisedButton1.Primary = True
-        Me.MaterialRaisedButton1.Size = New System.Drawing.Size(144, 23)
+        Me.MaterialRaisedButton1.Size = New System.Drawing.Size(288, 44)
         Me.MaterialRaisedButton1.TabIndex = 62
         Me.MaterialRaisedButton1.Text = "Delete"
         Me.MaterialRaisedButton1.UseVisualStyleBackColor = True
@@ -906,12 +921,12 @@ Partial Class FrontDeskManagement
         'CheckOutFDMButton
         '
         Me.CheckOutFDMButton.Depth = 0
-        Me.CheckOutFDMButton.Location = New System.Drawing.Point(159, 298)
-        Me.CheckOutFDMButton.Margin = New System.Windows.Forms.Padding(2)
+        Me.CheckOutFDMButton.Location = New System.Drawing.Point(318, 573)
+        Me.CheckOutFDMButton.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.CheckOutFDMButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.CheckOutFDMButton.Name = "CheckOutFDMButton"
         Me.CheckOutFDMButton.Primary = True
-        Me.CheckOutFDMButton.Size = New System.Drawing.Size(144, 23)
+        Me.CheckOutFDMButton.Size = New System.Drawing.Size(288, 44)
         Me.CheckOutFDMButton.TabIndex = 60
         Me.CheckOutFDMButton.Text = "Check-Out(s)"
         Me.CheckOutFDMButton.UseVisualStyleBackColor = True
@@ -919,12 +934,12 @@ Partial Class FrontDeskManagement
         'CheckInFDMButton
         '
         Me.CheckInFDMButton.Depth = 0
-        Me.CheckInFDMButton.Location = New System.Drawing.Point(11, 297)
-        Me.CheckInFDMButton.Margin = New System.Windows.Forms.Padding(2)
+        Me.CheckInFDMButton.Location = New System.Drawing.Point(22, 571)
+        Me.CheckInFDMButton.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.CheckInFDMButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.CheckInFDMButton.Name = "CheckInFDMButton"
         Me.CheckInFDMButton.Primary = True
-        Me.CheckInFDMButton.Size = New System.Drawing.Size(144, 23)
+        Me.CheckInFDMButton.Size = New System.Drawing.Size(288, 44)
         Me.CheckInFDMButton.TabIndex = 61
         Me.CheckInFDMButton.Text = "Check-In(s)"
         Me.CheckInFDMButton.UseVisualStyleBackColor = True
@@ -933,12 +948,12 @@ Partial Class FrontDeskManagement
         '
         Me.GenerateFSRFButton.Depth = 0
         Me.GenerateFSRFButton.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.GenerateFSRFButton.Location = New System.Drawing.Point(60, 324)
-        Me.GenerateFSRFButton.Margin = New System.Windows.Forms.Padding(2)
+        Me.GenerateFSRFButton.Location = New System.Drawing.Point(22, 625)
+        Me.GenerateFSRFButton.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.GenerateFSRFButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.GenerateFSRFButton.Name = "GenerateFSRFButton"
         Me.GenerateFSRFButton.Primary = True
-        Me.GenerateFSRFButton.Size = New System.Drawing.Size(175, 23)
+        Me.GenerateFSRFButton.Size = New System.Drawing.Size(350, 44)
         Me.GenerateFSRFButton.TabIndex = 59
         Me.GenerateFSRFButton.Text = "Generate Report"
         Me.GenerateFSRFButton.UseVisualStyleBackColor = True
@@ -947,15 +962,15 @@ Partial Class FrontDeskManagement
         '
         Me.SearchFDMEntry.Depth = 0
         Me.SearchFDMEntry.Hint = ""
-        Me.SearchFDMEntry.Location = New System.Drawing.Point(203, 364)
-        Me.SearchFDMEntry.Margin = New System.Windows.Forms.Padding(2)
+        Me.SearchFDMEntry.Location = New System.Drawing.Point(406, 700)
+        Me.SearchFDMEntry.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.SearchFDMEntry.MouseState = MaterialSkin.MouseState.HOVER
         Me.SearchFDMEntry.Name = "SearchFDMEntry"
         Me.SearchFDMEntry.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.SearchFDMEntry.SelectedText = ""
         Me.SearchFDMEntry.SelectionLength = 0
         Me.SearchFDMEntry.SelectionStart = 0
-        Me.SearchFDMEntry.Size = New System.Drawing.Size(273, 23)
+        Me.SearchFDMEntry.Size = New System.Drawing.Size(546, 39)
         Me.SearchFDMEntry.TabIndex = 58
         Me.SearchFDMEntry.Text = "Search"
         Me.SearchFDMEntry.UseSystemPasswordChar = False
@@ -963,12 +978,12 @@ Partial Class FrontDeskManagement
         'SearchFDMButton
         '
         Me.SearchFDMButton.Depth = 0
-        Me.SearchFDMButton.Location = New System.Drawing.Point(13, 362)
-        Me.SearchFDMButton.Margin = New System.Windows.Forms.Padding(2)
+        Me.SearchFDMButton.Location = New System.Drawing.Point(26, 696)
+        Me.SearchFDMButton.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.SearchFDMButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.SearchFDMButton.Name = "SearchFDMButton"
         Me.SearchFDMButton.Primary = True
-        Me.SearchFDMButton.Size = New System.Drawing.Size(64, 23)
+        Me.SearchFDMButton.Size = New System.Drawing.Size(128, 44)
         Me.SearchFDMButton.TabIndex = 57
         Me.SearchFDMButton.Text = "Search"
         Me.SearchFDMButton.UseVisualStyleBackColor = True
@@ -976,21 +991,35 @@ Partial Class FrontDeskManagement
         'refresh_btn
         '
         Me.refresh_btn.Depth = 0
-        Me.refresh_btn.Location = New System.Drawing.Point(575, 325)
-        Me.refresh_btn.Margin = New System.Windows.Forms.Padding(2)
+        Me.refresh_btn.Location = New System.Drawing.Point(1150, 625)
+        Me.refresh_btn.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.refresh_btn.MouseState = MaterialSkin.MouseState.HOVER
         Me.refresh_btn.Name = "refresh_btn"
         Me.refresh_btn.Primary = True
-        Me.refresh_btn.Size = New System.Drawing.Size(97, 23)
+        Me.refresh_btn.Size = New System.Drawing.Size(194, 44)
         Me.refresh_btn.TabIndex = 64
         Me.refresh_btn.Text = "Refresh"
         Me.refresh_btn.UseVisualStyleBackColor = True
         '
+        'filehashing_btn
+        '
+        Me.filehashing_btn.Depth = 0
+        Me.filehashing_btn.Location = New System.Drawing.Point(738, 625)
+        Me.filehashing_btn.Margin = New System.Windows.Forms.Padding(4)
+        Me.filehashing_btn.MouseState = MaterialSkin.MouseState.HOVER
+        Me.filehashing_btn.Name = "filehashing_btn"
+        Me.filehashing_btn.Primary = True
+        Me.filehashing_btn.Size = New System.Drawing.Size(194, 44)
+        Me.filehashing_btn.TabIndex = 65
+        Me.filehashing_btn.Text = "File Hashing"
+        Me.filehashing_btn.UseVisualStyleBackColor = True
+        '
         'FrontDeskManagement
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(12.0!, 25.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(683, 399)
+        Me.ClientSize = New System.Drawing.Size(1366, 767)
+        Me.Controls.Add(Me.filehashing_btn)
         Me.Controls.Add(Me.refresh_btn)
         Me.Controls.Add(Me.MaterialRaisedButton2)
         Me.Controls.Add(Me.search_CB)
@@ -1008,7 +1037,7 @@ Partial Class FrontDeskManagement
         Me.Controls.Add(Me.LogoutFDMButton)
         Me.Controls.Add(Me.MaterialTabSelector1)
         Me.Controls.Add(Me.RFTabControl)
-        Me.Margin = New System.Windows.Forms.Padding(2)
+        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.MaximizeBox = False
         Me.Name = "FrontDeskManagement"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
@@ -1134,4 +1163,5 @@ Partial Class FrontDeskManagement
     Friend WithEvents ColumnHeader56 As System.Windows.Forms.ColumnHeader
     Friend WithEvents ColumnHeader57 As System.Windows.Forms.ColumnHeader
     Friend WithEvents refresh_btn As MaterialSkin.Controls.MaterialRaisedButton
+    Friend WithEvents filehashing_btn As MaterialSkin.Controls.MaterialRaisedButton
 End Class

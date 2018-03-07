@@ -69,4 +69,9 @@ Public Class MenuForAdmin
         WebsiteBlocker.Show()
         Me.Hide()
     End Sub
+
+    Private Sub Keylogger_btn_Click(sender As Object, e As EventArgs) Handles Keylogger_btn.Click
+        Keylogger.Show()
+        Me.Hide()
+    End Sub
 End Class

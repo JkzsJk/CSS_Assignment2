@@ -9,6 +9,12 @@ Public Class Reservations_Management
     Dim ds, ds1, ds2, ds3, ds4, ds5, ds6, ds7 As New DataSet
     Dim cmd As New OleDb.OleDbCommand
     Dim totalRec, totalRec1, totalRec2, totalRec3, totalRec4, curRec, curRec1, curRec2, curRec3 As Integer
+
+    Private Sub filehashing_btn_Click(sender As Object, e As EventArgs) Handles filehashing_btn.Click
+        FileHashingRM.Show()
+        Me.Hide()
+    End Sub
+
     Dim Sql, Sql1, Sql2, Sql3, Sql4, Sql5, Sql6, Sql7 As String
     Dim a As Boolean = False
     Dim ButtonCheck As Boolean = False

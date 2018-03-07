@@ -1,7 +1,8 @@
 ﻿Imports MaterialSkin
-Public Class FileHashing
+
+Public Class FileHashingRM
     Inherits MaterialSkin.Controls.MaterialForm
-    Private Sub FileHashing_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+    Private Sub FileHashingRM_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Dim SkinManager As MaterialSkinManager = MaterialSkinManager.Instance
         SkinManager.AddFormToManage(Me)
         SkinManager.Theme = MaterialSkinManager.Themes.LIGHT
@@ -40,7 +41,7 @@ Public Class FileHashing
     End Sub
 
     Private Sub back_btn_Click(sender As Object, e As EventArgs) Handles back_btn.Click
-        MenuForAdmin.Show()
+        Reservations_Management.Show()
         Me.Hide()
     End Sub
 

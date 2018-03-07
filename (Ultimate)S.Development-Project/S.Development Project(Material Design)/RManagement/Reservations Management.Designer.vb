@@ -67,6 +67,7 @@ Partial Class Reservations_Management
         Me.TimeNdate = New System.Windows.Forms.Timer(Me.components)
         Me.MaterialLabel1 = New MaterialSkin.Controls.MaterialLabel()
         Me.refresh_btn = New MaterialSkin.Controls.MaterialRaisedButton()
+        Me.filehashing_btn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.RFTabControl.SuspendLayout()
         Me.TabPage1.SuspendLayout()
         Me.TabPage2.SuspendLayout()
@@ -76,27 +77,27 @@ Partial Class Reservations_Management
         '
         Me.SearchREntry.Depth = 0
         Me.SearchREntry.Hint = ""
-        Me.SearchREntry.Location = New System.Drawing.Point(78, 363)
-        Me.SearchREntry.Margin = New System.Windows.Forms.Padding(2)
+        Me.SearchREntry.Location = New System.Drawing.Point(156, 698)
+        Me.SearchREntry.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.SearchREntry.MouseState = MaterialSkin.MouseState.HOVER
         Me.SearchREntry.Name = "SearchREntry"
         Me.SearchREntry.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
         Me.SearchREntry.SelectedText = ""
         Me.SearchREntry.SelectionLength = 0
         Me.SearchREntry.SelectionStart = 0
-        Me.SearchREntry.Size = New System.Drawing.Size(392, 23)
+        Me.SearchREntry.Size = New System.Drawing.Size(784, 39)
         Me.SearchREntry.TabIndex = 13
         Me.SearchREntry.UseSystemPasswordChar = False
         '
         'DeleteRRButton
         '
         Me.DeleteRRButton.Depth = 0
-        Me.DeleteRRButton.Location = New System.Drawing.Point(385, 297)
-        Me.DeleteRRButton.Margin = New System.Windows.Forms.Padding(2)
+        Me.DeleteRRButton.Location = New System.Drawing.Point(770, 571)
+        Me.DeleteRRButton.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.DeleteRRButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.DeleteRRButton.Name = "DeleteRRButton"
         Me.DeleteRRButton.Primary = True
-        Me.DeleteRRButton.Size = New System.Drawing.Size(186, 23)
+        Me.DeleteRRButton.Size = New System.Drawing.Size(372, 44)
         Me.DeleteRRButton.TabIndex = 6
         Me.DeleteRRButton.Text = "Delete Reservation"
         Me.DeleteRRButton.UseVisualStyleBackColor = True
@@ -104,12 +105,12 @@ Partial Class Reservations_Management
         'UpdateRRButton
         '
         Me.UpdateRRButton.Depth = 0
-        Me.UpdateRRButton.Location = New System.Drawing.Point(196, 297)
-        Me.UpdateRRButton.Margin = New System.Windows.Forms.Padding(2)
+        Me.UpdateRRButton.Location = New System.Drawing.Point(392, 571)
+        Me.UpdateRRButton.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.UpdateRRButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.UpdateRRButton.Name = "UpdateRRButton"
         Me.UpdateRRButton.Primary = True
-        Me.UpdateRRButton.Size = New System.Drawing.Size(186, 23)
+        Me.UpdateRRButton.Size = New System.Drawing.Size(372, 44)
         Me.UpdateRRButton.TabIndex = 7
         Me.UpdateRRButton.Text = "Update Reservation(s)"
         Me.UpdateRRButton.UseVisualStyleBackColor = True
@@ -118,12 +119,12 @@ Partial Class Reservations_Management
         '
         Me.ReservationReportButton.Depth = 0
         Me.ReservationReportButton.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.ReservationReportButton.Location = New System.Drawing.Point(209, 323)
-        Me.ReservationReportButton.Margin = New System.Windows.Forms.Padding(2)
+        Me.ReservationReportButton.Location = New System.Drawing.Point(418, 621)
+        Me.ReservationReportButton.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.ReservationReportButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.ReservationReportButton.Name = "ReservationReportButton"
         Me.ReservationReportButton.Primary = True
-        Me.ReservationReportButton.Size = New System.Drawing.Size(198, 23)
+        Me.ReservationReportButton.Size = New System.Drawing.Size(396, 44)
         Me.ReservationReportButton.TabIndex = 8
         Me.ReservationReportButton.Text = "Reservation Report"
         Me.ReservationReportButton.UseVisualStyleBackColor = True
@@ -132,12 +133,12 @@ Partial Class Reservations_Management
         '
         Me.AddPaymentRButton.Depth = 0
         Me.AddPaymentRButton.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.AddPaymentRButton.Location = New System.Drawing.Point(7, 323)
-        Me.AddPaymentRButton.Margin = New System.Windows.Forms.Padding(2)
+        Me.AddPaymentRButton.Location = New System.Drawing.Point(14, 621)
+        Me.AddPaymentRButton.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.AddPaymentRButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.AddPaymentRButton.Name = "AddPaymentRButton"
         Me.AddPaymentRButton.Primary = True
-        Me.AddPaymentRButton.Size = New System.Drawing.Size(198, 23)
+        Me.AddPaymentRButton.Size = New System.Drawing.Size(396, 44)
         Me.AddPaymentRButton.TabIndex = 10
         Me.AddPaymentRButton.Text = "Add new payment"
         Me.AddPaymentRButton.UseVisualStyleBackColor = True
@@ -145,12 +146,12 @@ Partial Class Reservations_Management
         'AddRRButton
         '
         Me.AddRRButton.Depth = 0
-        Me.AddRRButton.Location = New System.Drawing.Point(7, 297)
-        Me.AddRRButton.Margin = New System.Windows.Forms.Padding(2)
+        Me.AddRRButton.Location = New System.Drawing.Point(14, 571)
+        Me.AddRRButton.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.AddRRButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.AddRRButton.Name = "AddRRButton"
         Me.AddRRButton.Primary = True
-        Me.AddRRButton.Size = New System.Drawing.Size(186, 23)
+        Me.AddRRButton.Size = New System.Drawing.Size(372, 44)
         Me.AddRRButton.TabIndex = 12
         Me.AddRRButton.Text = "Add new Reservation(s)"
         Me.AddRRButton.UseVisualStyleBackColor = True
@@ -159,11 +160,11 @@ Partial Class Reservations_Management
         '
         Me.MaterialTabSelector1.BaseTabControl = Me.RFTabControl
         Me.MaterialTabSelector1.Depth = 0
-        Me.MaterialTabSelector1.Location = New System.Drawing.Point(0, 64)
-        Me.MaterialTabSelector1.Margin = New System.Windows.Forms.Padding(2)
+        Me.MaterialTabSelector1.Location = New System.Drawing.Point(0, 123)
+        Me.MaterialTabSelector1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.MaterialTabSelector1.MouseState = MaterialSkin.MouseState.HOVER
         Me.MaterialTabSelector1.Name = "MaterialTabSelector1"
-        Me.MaterialTabSelector1.Size = New System.Drawing.Size(683, 25)
+        Me.MaterialTabSelector1.Size = New System.Drawing.Size(1366, 48)
         Me.MaterialTabSelector1.TabIndex = 5
         Me.MaterialTabSelector1.Text = "MaterialTabSelector1"
         '
@@ -172,22 +173,22 @@ Partial Class Reservations_Management
         Me.RFTabControl.Controls.Add(Me.TabPage1)
         Me.RFTabControl.Controls.Add(Me.TabPage2)
         Me.RFTabControl.Depth = 0
-        Me.RFTabControl.Location = New System.Drawing.Point(1, 93)
-        Me.RFTabControl.Margin = New System.Windows.Forms.Padding(2)
+        Me.RFTabControl.Location = New System.Drawing.Point(2, 179)
+        Me.RFTabControl.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.RFTabControl.MouseState = MaterialSkin.MouseState.HOVER
         Me.RFTabControl.Name = "RFTabControl"
         Me.RFTabControl.SelectedIndex = 0
-        Me.RFTabControl.Size = New System.Drawing.Size(682, 193)
+        Me.RFTabControl.Size = New System.Drawing.Size(1364, 371)
         Me.RFTabControl.TabIndex = 4
         '
         'TabPage1
         '
         Me.TabPage1.Controls.Add(Me.lv_Room)
-        Me.TabPage1.Location = New System.Drawing.Point(4, 22)
-        Me.TabPage1.Margin = New System.Windows.Forms.Padding(2)
+        Me.TabPage1.Location = New System.Drawing.Point(4, 34)
+        Me.TabPage1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TabPage1.Name = "TabPage1"
-        Me.TabPage1.Padding = New System.Windows.Forms.Padding(2)
-        Me.TabPage1.Size = New System.Drawing.Size(674, 167)
+        Me.TabPage1.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TabPage1.Size = New System.Drawing.Size(1356, 333)
         Me.TabPage1.TabIndex = 0
         Me.TabPage1.Text = "Individual Reservation"
         Me.TabPage1.UseVisualStyleBackColor = True
@@ -197,9 +198,10 @@ Partial Class Reservations_Management
         Me.lv_Room.Columns.AddRange(New System.Windows.Forms.ColumnHeader() {Me.ColumnHeader1, Me.ColumnHeader2, Me.ColumnHeader3, Me.ColumnHeader4, Me.ColumnHeader5, Me.ColumnHeader20, Me.ColumnHeader6, Me.ColumnHeader7, Me.ColumnHeader8, Me.ColumnHeader9, Me.ColumnHeader10, Me.ColumnHeader11, Me.ColumnHeader21, Me.ColumnHeader22})
         Me.lv_Room.Dock = System.Windows.Forms.DockStyle.Fill
         Me.lv_Room.GridLines = True
-        Me.lv_Room.Location = New System.Drawing.Point(2, 2)
+        Me.lv_Room.Location = New System.Drawing.Point(4, 4)
+        Me.lv_Room.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.lv_Room.Name = "lv_Room"
-        Me.lv_Room.Size = New System.Drawing.Size(670, 163)
+        Me.lv_Room.Size = New System.Drawing.Size(1348, 325)
         Me.lv_Room.TabIndex = 0
         Me.lv_Room.UseCompatibleStateImageBehavior = False
         Me.lv_Room.View = System.Windows.Forms.View.Details
@@ -277,11 +279,11 @@ Partial Class Reservations_Management
         'TabPage2
         '
         Me.TabPage2.Controls.Add(Me.lv_FnS)
-        Me.TabPage2.Location = New System.Drawing.Point(4, 22)
-        Me.TabPage2.Margin = New System.Windows.Forms.Padding(2)
+        Me.TabPage2.Location = New System.Drawing.Point(4, 34)
+        Me.TabPage2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TabPage2.Name = "TabPage2"
-        Me.TabPage2.Padding = New System.Windows.Forms.Padding(2)
-        Me.TabPage2.Size = New System.Drawing.Size(674, 167)
+        Me.TabPage2.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.TabPage2.Size = New System.Drawing.Size(1356, 333)
         Me.TabPage2.TabIndex = 1
         Me.TabPage2.Text = "Facilities & Services"
         Me.TabPage2.UseVisualStyleBackColor = True
@@ -291,9 +293,10 @@ Partial Class Reservations_Management
         Me.lv_FnS.Columns.AddRange(New System.Windows.Forms.ColumnHeader() {Me.ColumnHeader12, Me.ColumnHeader13, Me.ColumnHeader14, Me.ColumnHeader15, Me.ColumnHeader16, Me.ColumnHeader17, Me.ColumnHeader18, Me.ColumnHeader19, Me.ColumnHeader23})
         Me.lv_FnS.Dock = System.Windows.Forms.DockStyle.Fill
         Me.lv_FnS.GridLines = True
-        Me.lv_FnS.Location = New System.Drawing.Point(2, 2)
+        Me.lv_FnS.Location = New System.Drawing.Point(4, 4)
+        Me.lv_FnS.Margin = New System.Windows.Forms.Padding(6, 6, 6, 6)
         Me.lv_FnS.Name = "lv_FnS"
-        Me.lv_FnS.Size = New System.Drawing.Size(670, 163)
+        Me.lv_FnS.Size = New System.Drawing.Size(1348, 325)
         Me.lv_FnS.TabIndex = 0
         Me.lv_FnS.UseCompatibleStateImageBehavior = False
         Me.lv_FnS.View = System.Windows.Forms.View.Details
@@ -347,13 +350,13 @@ Partial Class Reservations_Management
         Me.LogoutRMButton.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
         Me.LogoutRMButton.BackColor = System.Drawing.Color.Transparent
         Me.LogoutRMButton.Depth = 0
-        Me.LogoutRMButton.Location = New System.Drawing.Point(618, 363)
-        Me.LogoutRMButton.Margin = New System.Windows.Forms.Padding(2, 3, 2, 3)
-        Me.LogoutRMButton.MinimumSize = New System.Drawing.Size(55, 16)
+        Me.LogoutRMButton.Location = New System.Drawing.Point(1236, 698)
+        Me.LogoutRMButton.Margin = New System.Windows.Forms.Padding(4, 6, 4, 6)
+        Me.LogoutRMButton.MinimumSize = New System.Drawing.Size(110, 31)
         Me.LogoutRMButton.MouseState = MaterialSkin.MouseState.HOVER
         Me.LogoutRMButton.Name = "LogoutRMButton"
         Me.LogoutRMButton.Primary = False
-        Me.LogoutRMButton.Size = New System.Drawing.Size(65, 36)
+        Me.LogoutRMButton.Size = New System.Drawing.Size(116, 36)
         Me.LogoutRMButton.TabIndex = 37
         Me.LogoutRMButton.Text = "Logout"
         Me.LogoutRMButton.UseVisualStyleBackColor = False
@@ -361,12 +364,12 @@ Partial Class Reservations_Management
         'adminMenu_btn
         '
         Me.adminMenu_btn.Depth = 0
-        Me.adminMenu_btn.Location = New System.Drawing.Point(575, 297)
-        Me.adminMenu_btn.Margin = New System.Windows.Forms.Padding(2)
+        Me.adminMenu_btn.Location = New System.Drawing.Point(1150, 571)
+        Me.adminMenu_btn.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.adminMenu_btn.MouseState = MaterialSkin.MouseState.HOVER
         Me.adminMenu_btn.Name = "adminMenu_btn"
         Me.adminMenu_btn.Primary = True
-        Me.adminMenu_btn.Size = New System.Drawing.Size(97, 23)
+        Me.adminMenu_btn.Size = New System.Drawing.Size(194, 44)
         Me.adminMenu_btn.TabIndex = 44
         Me.adminMenu_btn.Text = "Admin menu"
         Me.adminMenu_btn.UseVisualStyleBackColor = True
@@ -379,10 +382,10 @@ Partial Class Reservations_Management
         Me.Role.BackColor = System.Drawing.Color.Transparent
         Me.Role.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Role.ForeColor = System.Drawing.Color.White
-        Me.Role.Location = New System.Drawing.Point(497, 37)
-        Me.Role.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
+        Me.Role.Location = New System.Drawing.Point(994, 71)
+        Me.Role.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Role.Name = "Role"
-        Me.Role.Size = New System.Drawing.Size(24, 13)
+        Me.Role.Size = New System.Drawing.Size(48, 25)
         Me.Role.TabIndex = 47
         Me.Role.Text = "role"
         '
@@ -393,10 +396,10 @@ Partial Class Reservations_Management
         Me.nameID.BackColor = System.Drawing.Color.Transparent
         Me.nameID.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.nameID.ForeColor = System.Drawing.Color.White
-        Me.nameID.Location = New System.Drawing.Point(442, 37)
-        Me.nameID.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
+        Me.nameID.Location = New System.Drawing.Point(884, 71)
+        Me.nameID.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.nameID.Name = "nameID"
-        Me.nameID.Size = New System.Drawing.Size(33, 13)
+        Me.nameID.Size = New System.Drawing.Size(65, 25)
         Me.nameID.TabIndex = 46
         Me.nameID.Text = "name"
         '
@@ -405,9 +408,10 @@ Partial Class Reservations_Management
         Me.currentTime_lbl.AutoSize = True
         Me.currentTime_lbl.BackColor = System.Drawing.Color.Transparent
         Me.currentTime_lbl.ForeColor = System.Drawing.Color.White
-        Me.currentTime_lbl.Location = New System.Drawing.Point(601, 37)
+        Me.currentTime_lbl.Location = New System.Drawing.Point(1202, 71)
+        Me.currentTime_lbl.Margin = New System.Windows.Forms.Padding(6, 0, 6, 0)
         Me.currentTime_lbl.Name = "currentTime_lbl"
-        Me.currentTime_lbl.Size = New System.Drawing.Size(30, 13)
+        Me.currentTime_lbl.Size = New System.Drawing.Size(59, 25)
         Me.currentTime_lbl.TabIndex = 49
         Me.currentTime_lbl.Text = "Time"
         '
@@ -416,9 +420,10 @@ Partial Class Reservations_Management
         Me.currentDate_lbl.AutoSize = True
         Me.currentDate_lbl.BackColor = System.Drawing.Color.Transparent
         Me.currentDate_lbl.ForeColor = System.Drawing.Color.White
-        Me.currentDate_lbl.Location = New System.Drawing.Point(537, 37)
+        Me.currentDate_lbl.Location = New System.Drawing.Point(1074, 71)
+        Me.currentDate_lbl.Margin = New System.Windows.Forms.Padding(6, 0, 6, 0)
         Me.currentDate_lbl.Name = "currentDate_lbl"
-        Me.currentDate_lbl.Size = New System.Drawing.Size(30, 13)
+        Me.currentDate_lbl.Size = New System.Drawing.Size(57, 25)
         Me.currentDate_lbl.TabIndex = 48
         Me.currentDate_lbl.Text = "Date"
         '
@@ -432,31 +437,46 @@ Partial Class Reservations_Management
         Me.MaterialLabel1.Depth = 0
         Me.MaterialLabel1.Font = New System.Drawing.Font("Roboto", 11.0!)
         Me.MaterialLabel1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(222, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.MaterialLabel1.Location = New System.Drawing.Point(16, 365)
+        Me.MaterialLabel1.Location = New System.Drawing.Point(32, 702)
+        Me.MaterialLabel1.Margin = New System.Windows.Forms.Padding(6, 0, 6, 0)
         Me.MaterialLabel1.MouseState = MaterialSkin.MouseState.HOVER
         Me.MaterialLabel1.Name = "MaterialLabel1"
-        Me.MaterialLabel1.Size = New System.Drawing.Size(59, 19)
+        Me.MaterialLabel1.Size = New System.Drawing.Size(108, 34)
         Me.MaterialLabel1.TabIndex = 50
         Me.MaterialLabel1.Text = "Search:"
         '
         'refresh_btn
         '
         Me.refresh_btn.Depth = 0
-        Me.refresh_btn.Location = New System.Drawing.Point(575, 324)
-        Me.refresh_btn.Margin = New System.Windows.Forms.Padding(2)
+        Me.refresh_btn.Location = New System.Drawing.Point(1150, 623)
+        Me.refresh_btn.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.refresh_btn.MouseState = MaterialSkin.MouseState.HOVER
         Me.refresh_btn.Name = "refresh_btn"
         Me.refresh_btn.Primary = True
-        Me.refresh_btn.Size = New System.Drawing.Size(97, 23)
+        Me.refresh_btn.Size = New System.Drawing.Size(194, 44)
         Me.refresh_btn.TabIndex = 59
         Me.refresh_btn.Text = "Refresh"
         Me.refresh_btn.UseVisualStyleBackColor = True
         '
+        'filehashing_btn
+        '
+        Me.filehashing_btn.Depth = 0
+        Me.filehashing_btn.Location = New System.Drawing.Point(822, 621)
+        Me.filehashing_btn.Margin = New System.Windows.Forms.Padding(4)
+        Me.filehashing_btn.MouseState = MaterialSkin.MouseState.HOVER
+        Me.filehashing_btn.Name = "filehashing_btn"
+        Me.filehashing_btn.Primary = True
+        Me.filehashing_btn.Size = New System.Drawing.Size(236, 42)
+        Me.filehashing_btn.TabIndex = 67
+        Me.filehashing_btn.Text = "File Hashing"
+        Me.filehashing_btn.UseVisualStyleBackColor = True
+        '
         'Reservations_Management
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(12.0!, 25.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(683, 399)
+        Me.ClientSize = New System.Drawing.Size(1366, 767)
+        Me.Controls.Add(Me.filehashing_btn)
         Me.Controls.Add(Me.refresh_btn)
         Me.Controls.Add(Me.MaterialLabel1)
         Me.Controls.Add(Me.currentTime_lbl)
@@ -473,7 +493,7 @@ Partial Class Reservations_Management
         Me.Controls.Add(Me.AddRRButton)
         Me.Controls.Add(Me.MaterialTabSelector1)
         Me.Controls.Add(Me.RFTabControl)
-        Me.Margin = New System.Windows.Forms.Padding(2)
+        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.MaximizeBox = False
         Me.Name = "Reservations_Management"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
@@ -529,4 +549,5 @@ Partial Class Reservations_Management
     Friend WithEvents ColumnHeader22 As System.Windows.Forms.ColumnHeader
     Friend WithEvents ColumnHeader23 As System.Windows.Forms.ColumnHeader
     Friend WithEvents refresh_btn As MaterialSkin.Controls.MaterialRaisedButton
+    Friend WithEvents filehashing_btn As MaterialSkin.Controls.MaterialRaisedButton
 End Class

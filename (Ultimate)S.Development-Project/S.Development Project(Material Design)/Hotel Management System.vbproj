@@ -126,6 +126,24 @@
     <Compile Include="File Hashing\FileHashing.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="File Hashing\FileHashingFDM.Designer.vb">
+      <DependentUpon>FileHashingFDM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="File Hashing\FileHashingFDM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Hashing\FileHashingRFM.Designer.vb">
+      <DependentUpon>FileHashingRFM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="File Hashing\FileHashingRFM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File Hashing\FileHashingRM.Designer.vb">
+      <DependentUpon>FileHashingRM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="File Hashing\FileHashingRM.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FirstScreens\Login.Designer.vb">
       <DependentUpon>Login.vb</DependentUpon>
     </Compile>
@@ -142,6 +160,12 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>HotelManagementDataDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Keylogger\Keylogger.Designer.vb">
+      <DependentUpon>Keylogger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Keylogger\Keylogger.vb">
+      <SubType>Form</SubType>
     </Compile>
     <Compile Include="Main Menu%28Admin%29\AdminDelete.Designer.vb">
       <DependentUpon>AdminDelete.vb</DependentUpon>
@@ -289,11 +313,23 @@
     <EmbeddedResource Include="File Hashing\FileHashing.resx">
       <DependentUpon>FileHashing.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="File Hashing\FileHashingFDM.resx">
+      <DependentUpon>FileHashingFDM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Hashing\FileHashingRFM.resx">
+      <DependentUpon>FileHashingRFM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File Hashing\FileHashingRM.resx">
+      <DependentUpon>FileHashingRM.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FirstScreens\Login.resx">
       <DependentUpon>Login.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Folder Lock\FolderLock.resx">
       <DependentUpon>FolderLock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Keylogger\Keylogger.resx">
+      <DependentUpon>Keylogger.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Main Menu%28Admin%29\AdminDelete.resx">
       <DependentUpon>AdminDelete.vb</DependentUpon>
