@@ -44,3 +44,7 @@ C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Pro
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Keylogger.resources
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.RetriveAccountCredentials.resources
 C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\S.Development_Project_Material_Design_.Encryption.resources
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.exe.manifest
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\bin\Debug\Hotel Management System.application
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.exe.manifest
+C:\Users\Jason Khor\Documents\GitHub\CSS_Assignment2\(Ultimate)S.Development-Project\S.Development Project(Material Design)\obj\Debug\Hotel Management System.application
