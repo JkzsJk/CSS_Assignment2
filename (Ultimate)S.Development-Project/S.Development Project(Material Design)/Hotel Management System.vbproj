@@ -90,6 +90,12 @@
     <Compile Include="CaptchaBox.vb">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="DES Encryption\Encryption.Designer.vb">
+      <DependentUpon>Encryption.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DES Encryption\Encryption.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FDManagement\AddPayment.Designer.vb">
       <DependentUpon>AddPayment.vb</DependentUpon>
     </Compile>
@@ -298,6 +304,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="DES Encryption\Encryption.resx">
+      <DependentUpon>Encryption.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FDManagement\AddPayment.resx">
       <DependentUpon>AddPayment.vb</DependentUpon>
     </EmbeddedResource>

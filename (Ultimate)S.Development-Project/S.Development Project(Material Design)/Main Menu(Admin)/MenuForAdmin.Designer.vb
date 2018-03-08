@@ -38,6 +38,7 @@ Partial Class MenuForAdmin
         Me.WebsiteBlocker_btn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.Keylogger_btn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.RAC_btn = New MaterialSkin.Controls.MaterialRaisedButton()
+        Me.Encrytion_btn = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.SuspendLayout()
         '
         'RegisterAccMMButton
@@ -238,11 +239,26 @@ Partial Class MenuForAdmin
         Me.RAC_btn.Text = "Send Account Credentials"
         Me.RAC_btn.UseVisualStyleBackColor = True
         '
+        'Encrytion_btn
+        '
+        Me.Encrytion_btn.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.Encrytion_btn.Depth = 0
+        Me.Encrytion_btn.Location = New System.Drawing.Point(715, 546)
+        Me.Encrytion_btn.Margin = New System.Windows.Forms.Padding(4)
+        Me.Encrytion_btn.MouseState = MaterialSkin.MouseState.HOVER
+        Me.Encrytion_btn.Name = "Encrytion_btn"
+        Me.Encrytion_btn.Primary = True
+        Me.Encrytion_btn.Size = New System.Drawing.Size(544, 56)
+        Me.Encrytion_btn.TabIndex = 38
+        Me.Encrytion_btn.Text = "ENCRYPTION"
+        Me.Encrytion_btn.UseVisualStyleBackColor = True
+        '
         'MenuForAdmin
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(12.0!, 25.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1366, 767)
+        Me.Controls.Add(Me.Encrytion_btn)
         Me.Controls.Add(Me.RAC_btn)
         Me.Controls.Add(Me.Keylogger_btn)
         Me.Controls.Add(Me.WebsiteBlocker_btn)
@@ -281,4 +297,5 @@ Partial Class MenuForAdmin
     Friend WithEvents WebsiteBlocker_btn As MaterialSkin.Controls.MaterialRaisedButton
     Friend WithEvents Keylogger_btn As MaterialSkin.Controls.MaterialRaisedButton
     Friend WithEvents RAC_btn As MaterialSkin.Controls.MaterialRaisedButton
+    Friend WithEvents Encrytion_btn As MaterialSkin.Controls.MaterialRaisedButton
 End Class

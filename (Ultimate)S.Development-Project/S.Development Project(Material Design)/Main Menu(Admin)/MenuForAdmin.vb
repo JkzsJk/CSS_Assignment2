@@ -78,4 +78,9 @@ Public Class MenuForAdmin
         RetriveAccountCredentials.Show()
         Me.Hide()
     End Sub
+
+    Private Sub Encrytion_btn_Click(sender As Object, e As EventArgs) Handles Encrytion_btn.Click
+        Encryption.Show()
+        Me.Hide()
+    End Sub
 End Class
