@@ -67,6 +67,7 @@ Partial Class Keylogger
         Me.keylogger_txt.Location = New System.Drawing.Point(46, 216)
         Me.keylogger_txt.Multiline = True
         Me.keylogger_txt.Name = "keylogger_txt"
+        Me.keylogger_txt.ReadOnly = True
         Me.keylogger_txt.Size = New System.Drawing.Size(1089, 615)
         Me.keylogger_txt.TabIndex = 49
         '

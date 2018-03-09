@@ -68,7 +68,7 @@ Partial Class RetriveAccountCredentials
         Me.txtPassword.Margin = New System.Windows.Forms.Padding(4)
         Me.txtPassword.MouseState = MaterialSkin.MouseState.HOVER
         Me.txtPassword.Name = "txtPassword"
-        Me.txtPassword.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.txtPassword.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.txtPassword.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.txtPassword.SelectedText = ""
         Me.txtPassword.SelectionLength = 0

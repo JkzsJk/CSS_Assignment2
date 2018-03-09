@@ -51,13 +51,10 @@ Public Class RetriveAccountCredentials
     End Sub
 
     Private Sub btnSendAC_Click(sender As Object, e As EventArgs) Handles btnSendAC.Click
-        Dim activationCode As String = Guid.NewGuid().ToString()
         Dim body As String = "Hello " + txtUsername.Text.Trim() + ","
         body += vbCrLf + vbCrLf + "Please use following credentials to log into your account."
         body += vbCrLf + "Username: " + txtUsername.Text
         body += vbCrLf + "Password:" + txtPassword.Text
-        body += vbCrLf + vbCrLf + "You may also use following activation code to activate your account."
-        body += vbCrLf + "Activation Code: " + activationCode
         body += vbCrLf + vbCrLf + "Thanks"
         Try
             Dim Smtp_Server As New SmtpClient
